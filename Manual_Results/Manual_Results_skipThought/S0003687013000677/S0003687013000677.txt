@@ -1,0 +1,47 @@
+->Participants were offbalance longer slower to complete the acceleration grapple and mobility tasks completed fewer chinups and had greater physiological cost  and perceptual effort  during the 5min run
+->This study examined the influence of stab resistant body armour  and mandated accessories on physiological responses to and the performance of simulated mobility tasks
+->Fiftytwo males  completed a running VO2max test and task familiarisation
+->During each session participants performed five mobility tasks a balance task an acceleration task that simulated exiting a vehicle chinups a grappling task and a manoeuvrability task
+->Body armour is used widely by law enforcement and other agencies but has received mixed reviews
+->Two experimental sessions were completed  in a randomised counterbalanced order one while wearing SRBA and appointments  and one without additional load
+->One min after the run the five mobility tasks were repeated
+->Impact of police body armour and equipment on mobility
+->For the New Zealand Police the duty belt and mandated appointments  weigh approximately 35kg
+->Most research involves analysis of military based tasks using heavier specialised military body armour finding that it adversely affects mobility strength speed balance and physiological strain
+->The weight and rigidity of SRBA along the length of the torso may also hinder an individuals ability to move efficiently and correct loss of balance
+->Tasks cited were running pursuing rapidly exiting vehicles and scuffling or grappling with an offender
+->While the SRBA  provides protection from stabbing blunt trauma and small calibre bullets it has been suggested that the SRBA and belt unit negatively affect police physical performance Although there is a wealth of literature exploring the impact of added load  on human performance  few studies have been designed to assess the effect of body armour on task elements typically encountered in policing
+->Anecdotal police reports and officer interviews within New Zealand and the United Kingdom suggest that SRBA and appointments restrict job related mobility during a number of work related tasks
+->More mundane tasks such as manoeuvring or lifting their body weight carrying climbing over objects balancing and changing a car wheel were also reportedly affected The purpose of this study was to explore and provide information on the influence that the wearing of SRBA and mandated appointments has on physiological markers of effort and performance during the completion of simulated mobility tasks
+->The demanding testing required that participants be physically active with no history of cardiovascular disease or neurological deficits and free of musculoskel injury
+->While the amount of job related running for police is difficult to quantify the treadmill run was an attempt to replicate a near maximal running effort that may present a worstcase policing scenario
+->The test ended at volitional fatigue or when all of the following criteria  were realised  a plateau in VO2 with increases in external work   RER 11 and  HR reaching10bmin1 of agepredicted maximum
+->One session was conducted carrying added load  while the other was completed without additional load
+->The objective was to keep the platform balanced against lateral excursions  for 30s Time offbalance was recorded as the total time the platform was in contact with the groundan acceleration task to simulate exiting a vehicle
+->On GO they dropped their chests to the floor rolled to their left pushed hard upwards to perform a clapping push up dropping back to the floor
+->Participants then pivoted around their feet walking their hands around to complete a full anticlockwise circle
+->a timed balance task standing on a stabilometer platform with feet shoulder width apart
+->They then rolled back to their right before pushing back up to their starting position
+->loading test phase loadingtest phase for each task and participants grouped as a random effect
+->They then completed a 5min run on a zero grade treadmill at 13kmh1 commencing from a running start
+->Initial balance was achieved and as soon as the participants hands were released from supports the test began
+->Following the test participants were fully familiarised with testing procedures and practiced all five mobility tasks  three times each while both loaded and unloaded
+->This familiarisation and practice ensured test consistency and suitable technique were achievedWearing exercise shoes and clothing participants completed two identical experimental sessions in a randomised and counterbalanced order
+->Sessions were completed under the same conditions within an eighteen day period with at least four days between sessions
+->It was not possible for all participants to complete their testing at the same time of day due to availability and shift work schedulesDuring each session participants completed five mobility tasks  that were selected based on job task analyses from the literature  and a review of the New Zealand Police Physical Competency Test  to represent mobility challenges encountered during police work
+->Time between the tasks were standardised based on expected exertion  but also to adhere to data recording and session time constraints
+->Upper body strength or strength endurance has been indicated as an important element in a number of police job task analyses a grapple task
+->Some task results are expressed as percentage difference between the means for clarity
+->A compound symmetry heterogeneous covariance matrix best suited the data and was thus assumed best for the covariance structure
+->Fiftythree male participants were recruited from the New Zealand Southern Region District Police force with assistance from a Southern Region Police physical education officer
+->Measures of HR  VO2 and RER were recorded and averaged over the final min
+->Grasping the middle of the GBAG they then lifted the GBAG 075m onto a wooden platform  demarcated into two target zones  separated by a 70mm high by 65mm wide strip Fig
+->Many police and service occupations are required to wear body armour
+->Little known about the effects of wearing body armour in a law enforcement context
+->Implications for employee safetyeffectiveness in specific and critical work scenarios
+->Body armour and equipment increase mobility restriction and physiological cost
+->The mobility tasks were negatively affected by loading with mean decreases in performance ranging from 13 to 42
+->Mobility task performance was further reduced  after the run but only while participants were loaded  there were no differences in unloaded task performance between the different phases Table2
+->Participants worked significantly harder  while loaded during the 5min run
+->One participant was excluded prior to data collection due to a recent musculoskel injury leaving fiftytwo participants that completed all required testing
+->represented a broad range of ages body sizes  and cardiorespiratory fitness levels

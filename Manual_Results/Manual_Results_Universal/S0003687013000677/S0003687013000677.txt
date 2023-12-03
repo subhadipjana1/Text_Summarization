@@ -1,0 +1,31 @@
+->This study examined the influence of stab resistant body armour  and mandated accessories on physiological responses to and the performance of simulated mobility tasks
+->During each session participants performed five mobility tasks a balance task an acceleration task that simulated exiting a vehicle chinups a grappling task and a manoeuvrability task
+->Participants were offbalance longer slower to complete the acceleration grapple and mobility tasks completed fewer chinups and had greater physiological cost  and perceptual effort  during the 5min run
+->One min after the run the five mobility tasks were repeated
+->There was a significant decrease in performance during all tasks with loading
+->Impact of police body armour and equipment on mobility
+->In 2007 SRBA was introduced to all frontline New Zealand Police purportedly in response to escalating crimes of violence and to reduce officer fatalities
+->Anecdotal police reports and officer interviews within New Zealand and the United Kingdom suggest that SRBA and appointments restrict job related mobility during a number of work related tasks
+->Given that failure to complete critical tasks in police work could have potentially fatal consequences for police officers their work colleagues and the public they serve this research is timely and necessary
+->Most research involves analysis of military based tasks using heavier specialised military body armour finding that it adversely affects mobility strength speed balance and physiological strain
+->We hypothesised that wearing the SRBA and appointments would negatively impact all mobility tasks and increase the physiological effort of movement
+->They then completed a 5min run on a zero grade treadmill at 13kmh1 commencing from a running start
+->While the amount of job related running for police is difficult to quantify the treadmill run was an attempt to replicate a near maximal running effort that may present a worstcase policing scenario
+->Upper body strength or strength endurance has been indicated as an important element in a number of police job task analyses a grapple task
+->Participants were asked to abide by test preparation guidelines and keep pretesting physical activity sleep patterns and diet consistent between test sessionsParticipants completed a 1012min incremental treadmill test to identify their maximal aerobic fitness  with oxygen uptake  respiratory exchange ratio  and heart rate  recorded throughout
+->The test ended at volitional fatigue or when all of the following criteria  were realised  a plateau in VO2 with increases in external work   RER 11 and  HR reaching10bmin1 of agepredicted maximum
+->It was not possible for all participants to complete their testing at the same time of day due to availability and shift work schedulesDuring each session participants completed five mobility tasks  that were selected based on job task analyses from the literature  and a review of the New Zealand Police Physical Competency Test  to represent mobility challenges encountered during police work
+->Following the test participants were fully familiarised with testing procedures and practiced all five mobility tasks  three times each while both loaded and unloaded
+->This familiarisation and practice ensured test consistency and suitable technique were achievedWearing exercise shoes and clothing participants completed two identical experimental sessions in a randomised and counterbalanced order
+->Sessions were completed under the same conditions within an eighteen day period with at least four days between sessions
+->Time between the tasks were standardised based on expected exertion  but also to adhere to data recording and session time constraints
+->Participants 5min run HR and VO2 data were normalised as a percentage of values recorded during their maximal treadmill test
+->A linear mixed model analysis  was individually conducted on each of the mobility task scores and 5min run measurements  with loading and test phase  as repeated effects ie
+->On GO they stood without arm assistance pivoted 90 to the right and sprinted 285m through a set of optoreflective timing gatesas many successive standard chinups as possible
+->Grasping the middle of the GBAG they then lifted the GBAG 075m onto a wooden platform  demarcated into two target zones  separated by a 70mm high by 65mm wide strip Fig
+->The GBAG was then lifted and moved twice over the strip touching the bag down in each target zone before being lifted off the platform tilted down and dragged 45m until the distal end of the bag crossed a line and the timer was stoppeda manoeuvrability task
+->Many police and service occupations are required to wear body armour
+->Body armour and equipment increase mobility restriction and physiological cost
+->One participant was excluded prior to data collection due to a recent musculoskel injury leaving fiftytwo participants that completed all required testing
+->During maximal testing all participants heart rates were within 10bmin1 of their age predicted maximum heart rate  and RER 11Two participants  were unable to complete the loaded 5min run at the specified speed and completed the final 4050s with the treadmill speed lowered to 12kmh1
+->While this a priori protocol change did not appear to influence their physiological measurements 5min run data from these participants were omitted from the statistical analysis

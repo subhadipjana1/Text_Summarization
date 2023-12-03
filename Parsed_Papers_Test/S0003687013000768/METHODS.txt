@@ -1,0 +1,492 @@
+
+
+Retroreflective markers were placed on each subject's feet, shanks, thighs, pelvis and torso using a modified version of Vicon's Plug-in-Gait marker set, with additional medial markers at the ankle, knee and hip. Subjects positioned themselves with each foot on a separate Kistler force platform (Kistler AG, Winterthur, Switzerland), and were then asked to shovel a 3 kg sand bag at a self-selected speed. As they shovelled, seven Vicon MX13 cameras (Vicon, Centennial, Colorado) recorded the 3D positions of each marker at a sampling rate of 200 Hz, while each force platform simultaneously sampled ground-reaction force data at a frequency of 2000 Hz.
+
+Subjects completed 5 trials with each shovel design in a randomly assigned order, and were provided with a 1 min break between each trial to prevent fatigue. Subjects were asked to shovel at a similar speed in each trial, and use the same hand positioning throughout. Trials began when subjects initiated trunk flexion towards the floor to accept the load, and trials ended once the shaft segment between both hands was parallel with the ground. The load was then dispatched to the left by rotating the shovel about its longitudinal axis, instead of excessive load throwing common to snow shovelling. Thus, this study made an attempt to isolate only the primary lifting movement associated with snow shovelling. A neutral trial was also collected from each subject where the subject stood in the anatomical position.
+
+Marker and ground-reaction force data were imported into Visual3D (C-Motion Inc., Germantown, Maryland) and were smoothed using low-pass filters with cut-off frequencies of 10 Hz (Arjmand et al., 2010). An 8-segment link-segment model comprising two feet, two shanks, two thighs, a pelvis and torso was created based on the neutral trial (Fig. 2
+                        ). Based on the marker set, ankle, knee, hip and L5/S1 joint centres were defined (Kingma et al., 1996; Robertson et al., 2004). Segment lengths were then defined as the distance from the distal joint centre (or floor in the case of the foot segment) to the proximal joint centre. Using these lengths, the location of the segment centres-of-mass were estimated using established anthropometric guidelines (Dempster, 1955; Clauser et al., 1969; Hanavan, 1964). These anthropometric data, in combination with each subject's total body mass, allowed for estimation of individual segment masses and moments of inertia (Dempster, 1955; Clauser et al., 1969; Hanavan, 1964).
+
+Three-dimensional joint kinematics for the ankles, knees, hips and the L5/S1 joint were determined using a joint coordinate system (Grood and Suntay, 1983; Cole et al., 1993). Total upper body flexion was assumed to occur exclusively in the y–z plane of the laboratory and thus upper body flexion angle was calculated in 2D relative to the vertical (Fig. 3
+                           ). This was done in MATLAB (MathWorks, Natick, MA) by first defining the anteroposterior (y) and vertical (z) coordinates of a point, H, midway between the right and left hip markers. A second point, S, was then defined midway between the right and left shoulder markers. Upper body flexion angle was then calculated as:
+                              
+                                 (1)
+                                 
+                                    
+                                       
+                                          θ
+                                          
+                                             Flexion
+                                          
+                                       
+                                       =
+                                       arctan
+                                       
+                                          (
+                                          
+                                             
+                                                
+                                                   
+                                                      Y
+                                                      s
+                                                   
+                                                   −
+                                                   
+                                                      Y
+                                                      H
+                                                   
+                                                
+                                                
+                                                   
+                                                      Z
+                                                      s
+                                                   
+                                                   −
+                                                   
+                                                      Z
+                                                      H
+                                                   
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                    
+                                 
+                              
+                           
+                        
+
+In cases where (Y
+                           
+                              S
+                            − Y
+                           
+                              H
+                           ) or (Z
+                           
+                              S
+                            − Z
+                           
+                              H
+                           ) were equal to or less than zero, an atan2 computational programming function was used to ensure correct angle calculation. By incorporating the hips into the calculation, the flexion angle represents the total upper body flexion, with contributions from both the spine and hips.
+
+Resultant joint moments were calculated using a Newton-Euler inverse dynamics approach (Robertson et al., 2004; Winter, 2009). In brief, joint kinetics were calculated in Visual3D for the distal joint, and then applying these kinetics to the next segment (based on Newton's 3rd law) allowed for calculation of the kinetics at the next more proximal joint. This process continued up to the L5/S1 joint, where the general form of the calculation for the L5/S1 extension moments was:
+                              
+                                 (2)
+                                 
+                                    
+                                       
+                                          M
+                                          
+                                             
+                                                
+                                                   L
+                                                   5
+                                                
+                                                
+                                                   S
+                                                   
+                                                      1
+                                                      x
+                                                   
+                                                
+                                             
+                                          
+                                       
+                                       =
+                                       
+                                          
+                                             
+                                                (
+                                                
+                                                   
+                                                      [
+                                                      
+                                                         
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        r
+                                                                        y
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        r
+                                                                        z
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                         
+                                                      
+                                                      ]
+                                                   
+                                                   ×
+                                                   
+                                                      [
+                                                      
+                                                         
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        F
+                                                                        y
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        F
+                                                                        z
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                         
+                                                      
+                                                      ]
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                          
+                                             
+                                                
+                                                   L
+                                                   5
+                                                
+                                                
+                                                   S
+                                                   1
+                                                
+                                             
+                                          
+                                       
+                                       +
+                                       
+                                          
+                                             
+                                                (
+                                                
+                                                   
+                                                      [
+                                                      
+                                                         
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        r
+                                                                        y
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        r
+                                                                        z
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                         
+                                                      
+                                                      ]
+                                                   
+                                                   ×
+                                                   
+                                                      [
+                                                      
+                                                         
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        F
+                                                                        y
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        F
+                                                                        z
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                         
+                                                      
+                                                      ]
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                          
+                                             R
+                                             H
+                                          
+                                       
+                                       +
+                                       
+                                          
+                                             
+                                                (
+                                                
+                                                   
+                                                      [
+                                                      
+                                                         
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        r
+                                                                        y
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        r
+                                                                        z
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                         
+                                                      
+                                                      ]
+                                                   
+                                                   ×
+                                                   
+                                                      [
+                                                      
+                                                         
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        F
+                                                                        y
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     
+                                                                        F
+                                                                        z
+                                                                     
+                                                                  
+                                                               
+                                                            
+                                                         
+                                                      
+                                                      ]
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                          
+                                             L
+                                             H
+                                          
+                                       
+                                       +
+                                       
+                                          M
+                                          
+                                             R
+                                             
+                                                H
+                                                x
+                                             
+                                          
+                                       
+                                       +
+                                       
+                                          M
+                                          
+                                             L
+                                             
+                                                H
+                                                x
+                                             
+                                          
+                                       
+                                       −
+                                       
+                                          [
+                                          
+                                             
+                                                I
+                                                x
+                                             
+                                             
+                                                α
+                                                x
+                                             
+                                             +
+                                             
+                                                (
+                                                
+                                                   
+                                                      I
+                                                      z
+                                                   
+                                                   −
+                                                   
+                                                      I
+                                                      y
+                                                   
+                                                
+                                                )
+                                             
+                                             
+                                                ω
+                                                y
+                                             
+                                             
+                                                ω
+                                                z
+                                             
+                                          
+                                          ]
+                                       
+                                    
+                                 
+                              
+                           
+                        
+
+where M denotes a moment, I denotes the segment mass moment of inertia of the pelvis segment at its centre of mass, α denotes the pelvis angular acceleration, ω denotes the pelvis angular velocity, r denotes a component of a 3D vector from the point of force application to the pelvis segment centre of mass, and F denotes a component of a 3D force vector. The subscripts L5/S1, RH and LH denote that the variable is with respect to the L5/S1, right hip or left hip joints, respectively. The axis about which each component acts is denoted by the subscripts x, y or z, where x is the flexion/extension axis. In MATLAB, the definite positive integral of the L5/S1 extension moments with respect to time was taken, where t
+                           
+                              i
+                            denotes the time at which M ≥ 0 (rising cross), and t
+                           
+                              f
+                            denotes the time at which M ≤ 0 (falling cross) giving the L5/S1 extension angular impulse, J:
+                              
+                                 (3)
+                                 
+                                    
+                                       
+                                          J
+                                          
+                                             
+                                                
+                                                   L
+                                                   5
+                                                
+                                                
+                                                   S
+                                                   
+                                                      1
+                                                      x
+                                                   
+                                                
+                                             
+                                          
+                                       
+                                       =
+                                       
+                                          
+                                             ∫
+                                             
+                                                t
+                                                i
+                                             
+                                             
+                                                t
+                                                f
+                                             
+                                          
+                                          
+                                             
+                                                M
+                                                
+                                                   
+                                                      
+                                                         L
+                                                         5
+                                                      
+                                                      
+                                                         S
+                                                         
+                                                            1
+                                                            x
+                                                         
+                                                      
+                                                   
+                                                
+                                             
+                                             d
+                                             t
+                                             ≈
+                                             Δ
+                                             t
+                                             
+                                                (
+                                                
+                                                   ∑
+                                                   
+                                                      
+                                                         M
+                                                         
+                                                            
+                                                               
+                                                                  L
+                                                                  5
+                                                               
+                                                               
+                                                                  S
+                                                                  
+                                                                     1
+                                                                     x
+                                                                  
+                                                               
+                                                            
+                                                         
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+
+Details concerning potential sources of errors associated with the processes described above are available elsewhere (Robertson et al., 2004; Winter, 2009). To account for different body proportions of subjects, moments and impulses were normalized to body mass and body height by dividing values by body mass and height [kg m].
+
+Two-tailed paired-samples t-tests (α = 0.05) were performed using MATLAB to compare L5/S1 extension angular impulses, peak L5/S1 extension moments, peak upper body flexion angles, trial times, and extension moment durations between shovel conditions. To determine whether a relationship existed between peak upper body flexion angle and the peak L5/S1 extension moment, the correlation coefficient (r, α = 0.05) between these two variables was calculated.
+

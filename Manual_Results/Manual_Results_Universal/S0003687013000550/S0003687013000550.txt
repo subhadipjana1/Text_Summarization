@@ -1,0 +1,36 @@
+->We aimed to investigate the relationship of task variation during dental work history with pinch grip strength among dentists
+->Dentists with low variation of work task history had an increased risk of low pinch grip strength in the right hand  but not in the left  compared to dentists with high task variation independent of age hand size handloading leisuretime activities BMI and symptomatic hand OA
+->The dentists with the most handloading tasks were at an increased risk of low pinch grip strength independent of eg
+->Three clusters of task variation emerged low  moderate  and high
+->BMI  was based on measured weight and selfreported height
+->Variation in work tasks in relation to pinch grip strength among middleaged female dentists
+->Pinch and power grip are essential indicators of hand function
+->The impact of occupational hand loading on pinch grip strength is not well understood
+->Dentists heavily utilize the thumb index and middle fingers in precision gripping in the right  hand while the left hand remains static for supportive work tasksChronic diseases affecting the hand may also lead to decreased pinch grip strength
+->A positive correlation was also observed between BMI and hand grip strength among overweight women The objective of the present study was to investigate the association between variation in dental work task history and pinch grip strength among middleaged female dentists
+->We assumed that low variation in dental work tasks is related to low pinch grip strength independently of symptomatic hand OA
+->The Hospital District of Helsinki and Uusimaa Ethics Committee for Research in Occupational Health and Safety approved the study proposalTripoid pinch grip strength  of both hands was measured between the pulp of the thumb in opposition to the pulps of the index and middle fingers using the Martin Vigorimeter with a small ball
+->The lower 25th percentile of pinch grip strength  was used as the cutoff point to define low pinch strength of the left and the right hand
+->Gender anthropometric factors and occupational loading have been found to affect grip strength which declines with age
+-> found that heavy manual workers had the highest pinch grip strength office workers the lowest and light manual workers were between these two groups
+->Logistic regression models were used to estimate the effect of age the level of variation in work tasks and symptomatic hand OA on pinch grip strength
+->To our knowledge no study has examined the effect of different types of dental work on hand functionDentists often perform repetitive work tasks with a high demand of precision and pinch force
+->The work tasks in dentistry differ with respect to mechanical loading on the finger joints
+->We further examined whether hand size BMI and leisuretime handrelated physical activities might confound the potential associationThe subjects were randomly selected through the registers of the Finnish Dental Association with aged 4563yrs in Helsinki and its neighbouring cities
+->Of those who received the questionnaire  295  dentists participated in a clinical examination between October 2002 and March 2003
+->The Martin Vigorimeter is one of the instruments frequently used to assess grip strength in clinical and research settings  The Vigorimeter showed good validity and reliability The test was administered during the clinical examination session by a researcher trained for the purpose
+->Six main tasks in dental work were identified  restorative treatment and endodontics  orthodontics  periodontics  prosthodontics  surgical treatment and  other nontreatment activities eg
+->dental examination consulting and administrative tasksInformation on dentists work history was collected by questionnaires and checked by interview during clinical examination
+->Dental filling and root treatment was ranked as highest loading task among all dental work tasksBased on the weekly hours of work tasks 15 the pattern of tasks during work history was empirically determined by cluster analysis
+->We have reported that symptomatic OA was associated with an increased risk of low pinch grip strength in middle aged women
+->A potential role of physical activity in attenuating the loss of grip strength has been suggested A correlation between anthropometric factors and pinch grip strength has been reported
+->The subjects were seated in a chair with back support feet on the floor and hands on the table in a neutral position
+->Information on weekly hours of handloading leisuretime activities and glove size was collected by a selfadministered questionnaire
+->The handloading leisuretime activities were categorized into two groups using cluster analysis with the Kmeans algorithm
+->The customary glove size graded as small medium or large was used as proxy for hand size
+->The relationship of task variation during dental work history with pinch grip strength among dentists was investigated
+->It is advisable among dentists to perform as diverse work tasks as possible to reduce the risk of decreased pinch grip strength
+->Among the dentists aged 4554 years the pinch grip strength in the left hand was lower than that in the right hand independent of variation in work tasks but among the older age group  a similar pattern was observed only in those who had performed variable work tasksWe examined the association of variation in dental work task history with pinch grip strength separately by hand Table2
+->In unadjusted analyses regarding the right hand the dentists with low  and moderate  variation in work tasks had a higher risk of low pinch grip strength compared with those who had performed variable work tasks
+->In the left hand no association between the variation in work task history and low pinch grip strength was observed
+->Including age and symptomatic hand OA in the model attenuated the association between moderate task variation and low pinch grip strength but the association of low task variation with low pinch grip strength persisted

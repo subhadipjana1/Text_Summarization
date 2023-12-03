@@ -1,0 +1,9 @@
+
+
+
+               
+               
+                  Lower-back injury from snow shovelling may be related to excessive joint loading. Bent-shaft snow shovels are commonly available for purchase; however, their influence on lower back-joint loading is currently not known. Therefore, the purpose of this study was to compare L5/S1 extension angular impulses between a bent-shaft and a standard straight-shaft snow shovel. Eight healthy subjects participated in this study. Each completed a simulated snow-lifting task in a biomechanics laboratory with each shovel design. A standard motion analysis procedure was used to determine L5/S1 angular impulses during each trial, as well as peak L5/S1 extension moments and peak upper body flexion angle. Paired-samples t-tests (α = 0.05) were used to compare variables between shovel designs. Correlation was used to determine the relationship between peak flexion and peak moments. Results of this study show that the bent-shaft snow shovel reduced L5/S1 extension angular impulses by 16.5% (p = 0.022), decreased peak moments by 11.8% (p = 0.044), and peak flexion by 13.0% (p = 0.002) compared to the straight-shaft shovel. Peak L5/S1 extension moment magnitude was correlated with peak upper body flexion angle (r = 0.70). Based on these results, it is concluded that the bent-shaft snow shovel can likely reduce lower-back joint loading during snow shovelling, and thus may have a role in snow shovelling injury prevention.
+               
+            
+

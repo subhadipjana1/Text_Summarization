@@ -1,0 +1,24 @@
+->In this study participants selected their preferred grip diameter responded to a series of questions about the steering wheel grip as they sat in four vehicles and rank ordered their preferred grip design
+->Recommendations for future work in steering wheel grip design and naturalistic driver hand positioning are discussed
+->Evaluation of four steering wheels to determine driver hand placement in a static environment
+->After participants provided consent and demographic data were collected the researchers asked the participant to grasp seven pairs of various sized wooden dowels  to obtain grip diameter size preferences
+->The participants were asked to take a moment to become familiar with the car and steering wheel and then place their hands on the steering wheel in the most comfortable position
+->One sample item was On a scale of luxurious being 1 and cheap being 7 how would you rate the steering wheel grip Next each participant was asked to imagine two different driving scenarios  and rate the comfort of that particular steering wheel using a 17 scale where 1very comfortable and 7very uncomfortable
+->The order in which the participants interacted with the vehicles was counterbalanced to avoid confounds from order bias
+-> were used  and were rated on a 7point Likert scale
+->Baby Boomer and GenerationY adults sat in four vehicles and chose their preferred hand placement
+->Height was significantly correlated with grip diameter preference and 32cm was the most popular
+->Driver preference was assessed by combining driver hand placement and anthropometric data
+->Drivers with atypical hand placement were grouped and compared to typical hand placement with t testsGrip design was assessed using rank orders of the four steering wheels and Likert scales were correlated between groups and between vehicles
+->A total of five participants  indicated in at least one vehicle that the most comfortable way to grip the steering wheel was with only one hand
+->Of these five participants three used one hand on more than one vehicle
+->Hand placement was compared across vehicles and groups with descriptive data using the same categories as Jonssons study
+->Seven participants chose the 381cm diameter dowel four chose 28575cm two chose 4445cm one chose 254cm and none chose 2225cm or 508cmFor the data where participants were asked to grip the steering wheel in the most comfortable location during the invehicle segment of the study each data point  was made translucent and overlaid onto a common background
+->Participants who exhibited any of the atypical hand placement locations  were separated into one group and compared to participants who placed both hands symmetrically on the top of the steering wheel
+->It should be noted that when testing for mean differences using the T or F statistic if homogeneity was violated the Satterthwaite approximation was usedTo compare the Baby Boomers and GenerationY groups independent samples t tests were conducted on the participants hand measurements body height and preferred dowel size
+->However many of the hand measurements were correlated with body height
+->Body height was significantly correlated with dowel size r0359 p005
+->Hand measurements body height and dowel size preference were compared between groups
+->GenerationY participants ranked the Mazda RX8 as first preference  more than Baby Boomers
+->GenerationY ranked the BMW 530XI as more cheap than Baby Boomers t2181 p05
+->GenerationY ranked the Mazda2 as more soft than Baby Boomers t2374 p05

@@ -1,0 +1,63 @@
+->The study investigated the effects of wearing two new designs of cotton glove on several hand performance capabilities and compared them against the effects of barehanded singlelayered and double cotton glove conditions when working with hand tools
+->The new glove designs were based on the findings of subjective hand discomfort assessments for this type of work and aimed to match the glove thickness to the localised pressure and sensitivity in different areas of the hand as well as to provide adequate dexterity for fine manipulative tasks
+->The results support the hypothesis that selective thickness in different areas of the hand could be applied by glove manufacturers to improve the glove design so that it can protect the hands from the environment and at the same time allow optimal hand performance capabilities
+->Design options for improving protective gloves for industrial assembly work
+->This data was already available from two previous studies by the present authors
+->The participants were asked to work in turn with screwdrivers and pliers each for 15min during each 30min section of the 2h work period
+->The results of the two previous studies  had already shown that cotton gloves can be a better option for light assembly tasks than nylon or nitrile gloves  which caused more adverse effects on some hand performance capabilities
+->The torque meter was attached to an AFG 500N Mecmesin Advanced Force Gauge  for recording the torque strength data
+->In the mixed model ANOVA the parameters were estimated using the Restricted Maximal Likelihood  Method and the Covariance structure within time and hand condition groups was selected as Compound Symmetry based on Akaike Information Criteria
+->Two comparison gloves were included in the evaluation trials the commercial cotton glove and a double thickness  cotton glove
+->For practical reasons the redesigned gloves were constructed of double cotton gloves so that the selected areas with a thinner layer had a singlelayered cotton glove
+->In other words the thickness of material was varied over the surface of the hand to reduce the discomfort of wearing gloves or to enhance performance capabilitiesThe gloves were made of cotton the thickness of the basic material  being 08mm
+->Then for each size of glove a template of the desired areas was prepared from cardboard
+->A pilot test was performed which examined this effect and it was found that the primary areas in which resistance was felt during flexion movements of the fingers when manipulating hand tools were at the dorsal aspect of the hand in the metacarpophalangeal and proximal interphalangeal joints shown as red dashed lines in Fig
+->The areas with the thinner layer to reduce the resistance against finger and joint flexion movements are shown in Fig
+->The screwdriving task consisted of using a screwdriver to assemble two components together using screws Fig
+->The screwdriver had a conventional flat head blade with a longitudinal round crosssectional handle
+->The handle of the screwdriver was 10cm in length and 3cm in diameter and the stem was 100mm6mm
+->The pliers task was a typical wire tying task using conventional straight type pliers  which had a grip span of 5cm and weight of 205g Fig
+->Four component assemblies or 30 wire ties were completed during each 15min
+->Handgrip strength was measured using a hand dynamometer  with a grip span of 5cm
+->The structures of the two prototype designs are shown in Table1                            and described below
+->3 and the glove itself is shown within Table1For the evaluation trials participants performed a simulated assembly task using the same experimental equipment and layout as in the previous studies by Dianat
+->screws components wires or hand tools while performing the simulated assembly task Handgrip strength lateral pinch strength and forearm torque strength were three different maximal isometric strength measurements taken during the experiment
+->The strength measurements followed standard procedures described in the literature
+->This hand dynamometer is based on a bridge of strain gauges and has been used in a number of research studies
+->Then the Tshaped handle was attached to the torque meter shaft  so that the whole apparatus was vertically adjustable to provide the desired height for each participant
+->Forearm torque strength  was measured in a standing position with the upper arm parallel to the torso forearm horizontal and elbow flexed at 90 Tactile sensitivity was measured by the monofilament test which has been reported to have good reliability and validity
+->Bonferroni post hoc tests on adjusted means were used to explore the main effects and interactions
+->The first was to develop new designs of gloves and the second was to run an experiment to evaluate the designsThe prototype gloves were constructed by modifying a glove that is commercially available and widely used for industrial assembly work the modification being to the thickness of material so that it could be suited to the handtool interaction in particular areas of the hand
+->Therefore to have better control over the task and tool the tool handle should be held firmly between the palm and thenar area with extra support from thumb and index finger which may lead to more discomfort in these areas of the hand
+->Several glove characteristics such as thickness material and flexibility of the material may be responsible for these effects but it was too complex to consider all the factors simultaneously so the present experiment was focused on the glove thicknessThe previous studies showed that for the barehanded screwdriver task the most discomfort was reported in the fingertips of the index and middle fingers
+->They each signed a consent form before the start of the trials with the option to withdraw at any stage of the study
+->The two prototype gloves constructed represented two different approaches
+->It was thought that if the edges of the holes caught on the tool or component being manipulated the glove might deteriorate gradually over the set of evaluation trials or might interfere with the task being performed
+->This glove with the selected areas removed was placed into another cotton glove of the same size so that it produced a double glove with an unbroken surface for the outer layerAnother difficulty which had to be overcome when constructing the gloves was to make sure that the inner glove could not slip in relation to the outer glove while it was being used
+->Some gloves used in industry have the fingertips of the gloves removed for just this purpose
+->When wearing gloves for the pliers task the highest levels of discomfort were reported in the lower part of both the thumb and the index fingerThe above findings indicate that there is more discomfort when wearing gloves than while barehanded
+->The task involved the use of both a screwdriver and pliers which are two different hand tools commonly used in assembly operations and together demonstrate a range of task demands
+->The pliers task required that each participant hold the wire with his left hand and fold both ends of the wire into a U shape using the pliers with the right hand and then tie the two ends of the U shaped wire together The two independent variables examined in the study were  hand condition with five levels  and  point of time within the 2h duration of the task
+->Based on the results of the two earlier studies  the duration of a 2h work period appeared to be adequate to evaluate the effects of wearing gloves
+->It was hypothesized that overcoming the resistance against finger movements at these points may restrict grip posture or necessitate increased force exertion which in turn could be another possible reason for greater feelings of discomfort when wearing gloves
+->Thus the touch sensitivity threshold was defined by the smallest filament that could be sensed by the participantTo investigate the discomfort in different areas of the hand and fingers in more detail a hand map was used together with a scale of 05  to measure the severity of the discomfort
+->The participants were asked to indicate the area of any discomfort that they experienced on the hand map and to rate its severity using the discomfort scale
+->One was based on published evidence of the differences in the areas of discomfort between the bare hand and the gloved hand conditions and the other was based on the need for finger and hand flexibility while working with tools such as screwdriver and pliers
+->When gloves are worn tactility  and dexterity will be reduced due to the layer of glove material between the hand and the tools handle and this is likely to make it more difficult to manipulate both the components and the hand tool
+->Glove design 1 and barehanded produced higher handgrip strength than double gloves
+->Glove design 1 and the bare hand condition had better dexterity than double gloves
+->Selective thickness over some hand areas can be applied to improve the glove design
+->The post hoc test showed no significant difference between the bare hand and glove design 1 although glove design 1 produced a significantly higher level of handgrip strength than double gloves
+->Mean handgrip strength only varied between 40 and 42N over the 2h work and forearm torque strength between 103 and 110NmAs shown in Table3 touch sensitivity in all the hand areas was greatest while barehanded  compared to when wearing gloves
+->In all hand areas sensitivity of touch thresholds while barehanded was found to be significantly different from those when wearing any of the gloves
+->Wearing glove design 1 singlelayered glove glove design 2 and double glove required 4 7 10 and 11 higher pegboard completion times respectively than the bare hand condition
+->The main findings of the study are shown in Tables2 and 3
+->In addition the bare hand condition recorded faster pegboard test completion time than when wearing glove design 2
+->The time required for completing the pegboard test after 120min was 8 faster than at time zeroThe ANOVA showed a significant main effect of hand condition on the handgrip strength  but no significant effect on the forearm torque strength or lateral pinch strengthA higher level of handgrip strength was recorded while barehanded compared to when wearing singlelayered cotton gloves double gloves or glove design 2
+->Forearm torque strength also increased between the start and the end of the task in that forearm torque strengths measured at 90 and 120min were significantly higher than that recorded at time zero
+->showed a significant main effect of hand condition on both the time to complete the pegboard test  and the number of errors
+->In contrast significant differences were found in the sensitivity thresholds between singlelayered cotton gloves and glove design 2 in all hand areasNo significant effect of time was found on touch sensitivity
+->However a significant interaction effect was found between hand condition and task time for the touch sensitivity of the thumb distal phalanx and hypothenar area
+->For the hypothenar area wearing double gloves and glove design 2 caused more sensitivity decrement at the start of the task than at other times whereas touch sensitivity did not change over time while barehanded or when wearing singlelayered gloves or glove design 1None of the subjective assessments ie
+->The participants rated ease of manipulation as between very easy and easy for all hand conditions with lowest and highest mean ratings recorded for the bare hand  and double gloves  respectively
+->Subjective assessment of the ease of manipulation did change over the duration of the task  so that better ratings of ease of manipulation were given at the start of the task compared to later

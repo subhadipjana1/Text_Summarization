@@ -1,0 +1,4 @@
+->Policy flight simulators are designed for the purpose of exploring alternative management policies at levels ranging from individual organizations to national strategy
+->These interactions almost always involve groups of people rather than individuals often with different stakeholders in conflict about priorities and courses of action
+->The ways in which these interactions are framed and conducted are discussed as well as the nature of typical results
+->One of few human factors descriptions of modeling policy setting

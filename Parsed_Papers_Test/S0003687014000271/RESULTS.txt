@@ -1,0 +1,18 @@
+
+
+In the tests, the participants repeated each experimental combination twice on distinct days. The ANOVA results indicated that the repetition effects on the various dependent variables were not significant (all p > .05). The intraclass correlation coefficient (ICC) values for the reliabilities between the repeated trials performed on distinct days ranged from 0.87 to 0.96 (all p < .01) for each dependent variable among the 16 participants.
+
+The ANOVA results indicated that handle heights (from straight to dropped) significantly influenced cycling posture (as shown in Table 2
+                        ), including the anterior torso tilt (difference of 16.7°), increasing the severity of lumbar kyphosis (difference of 6.3°). Because the test simulated a normal sight level during riding, when the torso tilted forward, a greater HE was required. Regarding the PT relative to the TA, the dropped handles reduced the PT (difference of 7.7°). In other words, lower handles caused the torso to lean forward; in addition to pelvic anterior rotation, additional spinal curvature (approximately 9.0°) was required for cycling.
+
+
+                        Table 3
+                         shows the ANOVA and Duncan test results for the effects of handle variables on the subjective discomfort and stability scores. In the table, dropped handles caused a high subjective discomfort rating value for the neck/shoulders, wrists, and lower back (all p < .001). Among these, the wrists had the highest discomfort value (6.88), whereas the lower back had the lowest (3.06). The subjective discomfort levels experienced in the perineum and ischial tuberosity were not affected by handle height. In addition, the table also indicates that dropped handles caused poor stability (p < .01).
+
+
+                        Table 4
+                         indicates that different PNLs affected only the TA (p < .01), and did not affect the other body angles. When the PNL was shortened, the torso had a greater anterior tilt angle within a range from 38.0° (when PNL = 12 cm) to 44.1° (when PNL = 0). The Duncan MRT results indicated that the trunk of the rider flexed more significantly (p < .01) when the PNL was short (0 and 3 cm) rather than when the PNL was long (9 and 12 cm).
+
+The PNL and the handle-height variables exhibited an opposite trend on subjective discomfort ratings (as shown in Table 5
+                        ). Table 5 shows that the PNL significantly influenced only the subjective discomfort scores of the perineum (p < .01) and the ischial tuberosity (p < .05), and did not affect the other body parts. The results showed that the PNL had significantly positive and negative correlations with the discomfort scores of the perineum (r = 0.994, p < .005) and ischial tuberosity (r = −0.914, p < .05), respectively. Regarding stability, the participants indicated that short PNLs (0 and 3 cm) were significantly less stable (p < .001) than were long PNLs (6–12 cm).
+

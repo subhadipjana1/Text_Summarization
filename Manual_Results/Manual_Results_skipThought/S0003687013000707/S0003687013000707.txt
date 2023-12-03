@@ -1,0 +1,36 @@
+->For comparison a humanlike and two alternative redundancy resolution strategies have been implemented
+->Next generation robotic manipulators are expected to resemble a humanlike behavior at kinematic level in order to reach the same level of dexterity of humans in operations like assembly of small pieces
+->These manipulators are also expected to share the same working environments with humans without artificial barriers
+->In this work we conjecture that making robots not only kinematically similar but also able to move and act in the same way as humans do might facilitate their social acceptance
+->An experimental campaign has been organized to assess the physiological comfortdiscomfort perceived by humans working sidebyside with robots
+->Acceptability of robotic manipulators in shared working environments through humanlike redundancy resolution
+->Before the experiments volunteers were asked to sign a form where they agreed to allow the researchers to collect physiological data
+->Their actual personal details except from the age were not recordedThe researchers then explained the purpose of the experiments reading the following text
+->We organized this experimental campaign to address the problem of physiological stress during humanrobot coexistence
+->The total duration of the motion was approximately 120s while the total duration of one session  was about 10minNotice that each subject experienced the three redundancy resolution methods in different sequence in order to remove the possible effects of prior experiences of the robot motion which may influence and bias the measurements as pointed out in A short interview was finally taken to collect subjective impressions from the volunteer concerning the perceived safety naturalness of the robot motion and an estimate of the emotional state boredom anxiety etc
+->the number of SCR  their intensity and duration regardless the SCL and slowlyvarying fluctuations which typically characterize tonic electrodermal activityWe finally introduce a robotrelated statistics defining the average elbow elevation statistics
+->For the SCR analysis we here make use of a different ordering of the three robot trajectories by using the average elbow elevation statistics
+->The PSD of HRV signal has been therefore estimated directly from the AR model coefficients  rather than applying the FFT  to the HRV signal
+->Therefore in order to remove the noise the median of the entire acquisition was first measured and then removed from the acquired signal
+->This way the DC level of the SC signal which turned out to contain a significant drift has been removedIn the following the final analysis of the postprocessed experimental data is reported
+->The resulting discrete time signal updated at the end of each RR interval is usually called tachogram
+->Spline interpolation has been finally applied to increase the time resolution of the tachogram
+->The results of the two trend tests as well as of the KruskalWallis correlation analysis are reported in Table1
+->The HRV was then computed using a frequency domain analysis by means of the estimation of its PSDSince the portion of each experiment related to a particular redundancy resolution scheme is very short in time the tachogram was first resampled at 4
+->Finally a candidate onset was recognized when EMG activity was greater or equal to 20
+->The experiments are aimed at investigating the reactions of subjects to robot trajectories
+->Please stand relaxed and possibly avoid strong voluntary movements
+->The researchers prepared the volunteer attaching ECG EMG and SCR probes and checked their correct behaviour by asking the volunteer to contract three times the corrugator muscle
+->Particular attention was paid to minimize the effect of artifacts which might invalidate subsequent analysesFrom raw ECG data a filter was applied in order to recognize QRS complex and estimate the time instant corresponding to the R peak
+->Therefore the output signal is simply a train of pulses corresponding to the depolarization of the left ventricular which is responsible of the R peak in the ECG waveform
+->For this reason an accurate estimation of the intensity and of the total duration of each contraction is not considered hereThe analysis of the muscle activity developed in this work is based on the detection of the so called onsets and offsets
+->An onset is defined as the time interval during which the muscle is contracted whereas an offset corresponds to a negligible muscle activity
+->It was first noticed that the level of noise measured during the baseline acquisition was significantly lower with respect to the one measured during the actual experiment
+->The measured skin conductance has been first resampled at 16Hz and then filtered with a Butterworth highpass filer of order 6 with a cutoff frequency
+->In particular the definition of statistics aimed at quantifying the robotinduced stress is explainedFor the ECG signal a common way to assess the dominance of the sympathetic nervous system with respect to the parasympathetic one is to measure the ratio between the power associated to the two corresponding bands of frequency
+->During the experiments no physical interaction with the robot is expected
+->In order to estimate whether the corrugator muscle was contracted  or not  a windowing approach was introduced
+->In fact a positive trend of this statistics with respect to the average elbow elevation can be now reported
+->Non humanlike movements are responsible for a more stressful affective state of humans
+->Resolution of the kinematic redundancy in robotic manipulators inspired by human movements
+->Assessment of physiological comfortdiscomfort as a function of the adopted redundancy resolution criterion

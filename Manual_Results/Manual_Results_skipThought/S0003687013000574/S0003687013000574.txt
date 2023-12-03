@@ -1,0 +1,60 @@
+->The aims of this paper were to describe ergonomics changes implemented in three meat cutting plants and to evaluate effects related to ergonomics on the individual meat cutters and their work
+->Data was collected by interviews observations document studies and a questionnaire  as a post intervention study
+->The questionnaire showed a reduction in perceived physical work load
+->Figuresfrom the company showed a positive trend for injuries and sick leave
+->Meat cutters face higher risks of injury and musculoskel problems than most other occupational groups
+->A competence development plan for each meat cutter and easy adjustment of workplace height were introduced
+->Improving meat cutters work Changes and effects following an intervention
+->The second plant  cut both beef and pork in four departments on both day and night shifts
+->Discussion and clarification of problems were made with relevant occupational categories on all levelsA questionnaire was developed comprising of 7 background 15 multiplechoice and 3 open questions concerning advantages shortcomings and any comments
+->Of the multiplechoice questions three concerned attitudes to the new organization four concerned physical and mental work load and the rest compared the old work organization with the new one regarding aspects such as pauses work pace accidents and workplace design
+->The questions used to assess physical and mental exertion were previously used by Engkvist All meat cutters  present on the day that the questionnaires were distributed had the opportunity to answer the questionnaire
+->Those sick on parental leave or on vacation were thereby excluded
+->Temporary meat cutters from employment agencies at the company had to be excluded due to language problems and organizational difficulties
+->It was estimated that the total number of temporary workers was approximately 100 persons  distributed according to the size of the plantsThe plants were visited in December 2008  and June 2009  respectively three to six months after implementation
+->There were opportunities to ask the researchers present for clarification when filling in the questionnaireThe multiplechoice questions were analysed using descriptive statistics correlations between possible related answers and statistical tests
+->The statistical calculations were made using the PASW Statistics 18
+->Mean values were tested for statistical significance with an independent sample ttest at the 95 significance level
+->The study was performed in one of Swedens largest food processing companies  and the largest in slaughtering and meat cutting which accounts for 60 of the Swedish meat industry
+->The company had been one of the few in the Swedish food industry and to our knowledge the only in meat cutting that prior to this study had been part of research programmes in order to achieve better working conditions for their employees It had three meat cutting plants that were all included in this study and each plant was a separate unit within the company
+->The number of respondents from each plant is indicated in Table1
+->The descriptive assessment was performed using MSOffice Excel 2007
+->The third plant  cut pork in three departments one of which also worked night shiftDifferent aspects of the working environment such as workplace and production layout manual lifting and work pace were observed and noted during the visits at each plant
+->The numbers of similar comments were counted concerning each question and each department or plant
+->Main changes were reducing knife work and job rotation
+->Results showed a significant reduction in perceived physical work load
+->The work started in October 2008 for the plants except for B where the work started earlier and where the changes were implemented in September 2008
+->In B all but one in BP all but four and in P all were fully experienced one year according to Hkknen
+-> and Madeleine and Madsen In all three plants less tiredness was experienced after the change Table2
+->There were some organizational and work load differences between the plants
+->At BP the beef cutting department had implemented a major change in working practices as single table production was exchanged to a flow line with deboning in two stages to improve both work environment and production
+->Next the other cutters had the chunks fall on their cutting table in random order
+->Platforms were individually adjustable for optimal working heightIn B meat cutting was conducted along a line where all meat cutters performed all tasks
+->Here work was faster and lifting was sparseAt the P plant three departments were specialized in cutting one part of the pig each shoulder middle part and ham but one night shift cutting all parts
+->Most meat cutters worked at the pace line where working conditions were similar to the pork cutting department of BPThus work load for beef cutters were highest at the BP plant and beef cutters as a whole had higher work load than pork cuttersIn all plants and departments pressurised purified air was blown into the membranes to separate the muscles before cuttingAll plants experienced similar change processes in how their steering committees were set with representatives from management trade union safety representatives and sometimes from the local occupational health services
+->There were plantspecific committees and an overall company project steering committee
+->The support and help from and cooperation and contact with workmates showed the same figures
+->A ttest showed a significantly larger number  of positive answers from plant B
+->One heavy task was cutting off the whole loin section including the bone approximately 20kg lift it with one hand and carry it a few steps from the conveyor up  on the standing platform and place the meat on the table in front of the line
+->The longer the work period the longer the pause
+->At P the perceived improvement was less than at the other plantsThose working at B rated more tiredness both physically and mentally than the others
+->All perceived more physical than mental tirednessThere was a considerable difference between the plants regarding perception of rest during breaks
+->Of those who answered most perceived their work as remaining unchanged
+->After the changes 50 perceived the same support and help from their supervisors as before
+->The plant with the largest portion of employees engaged in giving their opinion about the changes was B where 80 gave an opinion
+->Almost as many 77 gave their opinion from BP and from P 68 took the opportunity to give their view on the changes
+->A large number of meetings were held until consensus was obtained
+->It was closely monitored by the engineering department of the company to ensure that temperature didnt fall below12C and to certify that routines for crystallized fat were followed
+->Here comments were on negative stress as working in an appropriate working height was troublesomeIn B 48 did not consider it practically feasible to adjust work height due to time constraints difficulties or no adjustment possibilities
+-> in all plants between 3 and 36 often or sometimes percieved difficulties in coping with their new tasks
+->Regarding freedom at work 39 saw less freedom and 24 saw a worsening of conditionsOn the question of whether still working for the company in three years 40 answered yes and 7 no while 25 did not know
+->First 23 meat cutters cut the quarter carcass  letting chunks  fall down to a conveyor belt
+->A few single tables where meat cutters cut whole carcasses or large chunks were still used and many of the meat cutters had knowledge of working on the whole carcass
+->They reported to the companys SCThe meat cutters employed in the three plants participated in this study see Table1Most meat cutters were men
+->Variation in work was more or less the same 29 did not perceive a change while 20 had more monotonous and 21 more varied work
+->On a question of meaningfulness 40 saw no change while 21 perceived less meaning and 10 more meaningfulness in their work
+->Variation and diversity as well as being less physically strenuous were experienced as positive outcomes of the new way of working
+->To manage the rotation scheme a personal competence development plan was set up for each meat cutter
+->Whether rotation meant working on tasks they found difficult Fig
+->The same method and weights applied to the fore shank and brisket
+->Platforms were difficult to adjustThe pork cutting department of BP consisted of three pace lines for ham side and shoulder

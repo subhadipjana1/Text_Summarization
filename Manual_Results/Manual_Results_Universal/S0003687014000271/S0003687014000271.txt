@@ -1,0 +1,31 @@
+->This study examined body posture subjective discomfort and stability requiring the participants to ride a stationary bicycle for 20min  using various combinations of two handle heights and five seatprotruding node lengths
+->The results indicated that bicycle handle height significantly influenced body posture and that seat PNL caused differences in the riders subjective discomfort and stability scores
+->When the participants were seated at PNL0 or 3cm cycling using dropped handles was less stable compared with using straight handles however the handle height did not affect the cycling stability when the PNL was 6cm
+->Optimal protruding node length of bicycle seats determined using cycling postures and subjective ratings
+->Some riders have quit cycling because of unbearable discomfort or harm caused by bicycle seats The contact between the seat and the buttocks is a critical cause of discomfort and pain
+->Richmond  and Matheny  indicated that handlebars that are set too low can induce compression neuropathy and certain overuse symptoms as well as irritation of the labia in female cyclists and of the prostate in male cyclists
+->In summary the protruding node length  is a crucial difference among various bicycle seatsDifferences in the PNL may influence a riders comfort when cycling
+-> examined four longperiod and longdistance bicyclecommuting Japanese male students and observed that a nodule had developed near each of their coccygeal regions and the shape corresponded to the saddle of the bicycle
+->In this case because the proportion of the torso weight on the seat is increased the pressure on the ischial tuberosity is also increased
+->Although nonprotruding node seats can minimize pressure to the anterior perineum  and may be helpful in reducing seat injuries they may also increase the risk of falling injuries if stability is compromised
+->Another study examining 453 cyclists showed that the most frequently mentioned complaints were saddle sores  and more women than men experienced discomfort when riding a bicycle or when seated on a saddle Previous studies on bicycle seats have primarily focused on analyzing traditional seats that exhibit protruding nodes  or analyzing the seat pressure distribution for various commercial seats
+->In addition to PNL the design variables for bicycle seats vary substantially and have not been thoroughly researched in previous studies causing the understanding of the effect of PNL on riding posture and subjective ratings to be limitedIn this study we hypothesized that an optimal PNL may exist for traditional seats furthermore seats involving protruding nodes that enable maintaining a proper degree of body stability reducing discomfort in the perineal region and guiding the trunk to bend forward during riding thereby lightening the load on the ischial tuberosity
+->In the experiment we collected data regarding the body postures of riders subjective discomfort ratings and cycling stability after the participants rode a bicycle for 20min using various handle heights and seat PNL combinations to identify the optimal PNL
+->The 16 participants simulated cycling for 20min for each of 10 test combinations 5 seat PNLs
+->To prevent the results from being affected by fatigue the participants underwent a maximum of two tests per day with a minimum of 2h intervals between each test
+->To simulate cycling the participants viewed a screen positioned approximately 5m in front of them at eye level while cycling and repeated the information on the screen  to confirm that they received this information
+->At the end of each ride the subjective discomfort for various body parts and stability rating scores were immediately selfreported by the participants
+->The information was randomly displayed on the screen at a rate of approximately six times per minuteThis study used SPSS 170 statistical software for the statistical analyses
+->In addition a Pearson productmoment correlation was used to explore the PNL and subjective discomfort rating values and the testretest reliabilities
+->To analyze the motion data the participant posture was randomly measured thrice within the last cycling minute  as the crank arm was pedaled in a forward horizontal position
+->The experimenter then established the handle height based on the height of the seat surface
+->A calibration frame  was used to construct a validated 2D plane by using the motion system yielding measurement errors within 05
+->No previous study has systematically examined the effects of protruding nose lengths
+->We collected body postures and subjective ratings under 5 seat PNLs2 handle heights conditions
+->The handle and the PNL variables had varying effects on the degree of pelvic tilt
+->The intraclass correlation coefficient  values for the reliabilities between the repeated trials performed on distinct days ranged from 087 to 096  for each dependent variable among the 16 participantsThe ANOVA results indicated that handle heights  significantly influenced cycling posture as shown in Table2
+->In other words lower handles caused the torso to lean forward in addition to pelvic anterior rotation additional spinal curvature  was required for cycling                        Table3                         shows the ANOVA and Duncan test results for the effects of handle variables on the subjective discomfort and stability scores
+->Table5 shows that the PNL significantly influenced only the subjective discomfort scores of the perineum  and the ischial tuberosity  and did not affect the other body parts
+->In the table dropped handles caused a high subjective discomfort rating value for the neckshoulders wrists and lower back
+->In addition the table also indicates that dropped handles caused poor stability                         Table4                         indicates that different PNLs affected only the TA  and did not affect the other body angles
+->The Duncan MRT results indicated that the trunk of the rider flexed more significantly  when the PNL was short  rather than when the PNL was long The PNL and the handleheight variables exhibited an opposite trend on subjective discomfort ratings as shown in Table5

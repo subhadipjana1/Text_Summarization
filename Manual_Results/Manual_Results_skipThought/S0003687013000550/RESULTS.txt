@@ -1,0 +1,11 @@
+
+
+The distribution of subject characteristics by the level of variation in dental work tasks is presented in Table 1
+                     . Dentists with a history of high work task variation were somewhat younger than those with less variation in their work task history (p = 0.02). The groups did not differ with respect to other assessed characteristics. The prevalence of symptomatic OA in the joints of the first three fingers or the wrist was higher in the right hand than in the left hand (right vs. left: 10.9% vs. 8.2%, P < 0.001).
+
+Pinch grip strength decreased with age in both hands and with decreasing level of variation in work tasks in the right hand (Fig. 1
+                     ). Among the dentists aged 45–54 years, the pinch grip strength in the left hand was lower than that in the right hand independent of variation in work tasks, but among the older age group (55–63-years), a similar pattern was observed only in those who had performed variable work tasks.
+
+We examined the association of variation in dental work task history with pinch grip strength separately by hand (Table 2
+                        ). In unadjusted analyses regarding the right hand, the dentists with low (OR 2.67, 95% CI 1.43–4.99) and moderate (2.11, 1.01–4.40), variation in work tasks had a higher risk of low pinch grip strength compared with those who had performed variable work tasks. Including age and symptomatic hand OA in the model attenuated the association between moderate task variation and low pinch grip strength, but the association of low task variation with low pinch grip strength persisted. Further adjustment for other covariates (body mass index, hand size and hand-loading leisure-time activity) had little effect on the estimates. In the left hand, no association between the variation in work task history and low pinch grip strength was observed.
+

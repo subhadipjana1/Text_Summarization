@@ -1,0 +1,552 @@
+
+
+Before the experiments, volunteers were asked to sign a form where they agreed to allow the researchers to collect physiological data. Each volunteer was assigned a coded identity label, which was used to mark these data. Their actual personal details, except from the age, were not recorded.
+
+The researchers then explained the purpose of the experiments reading the following text:
+
+
+                        This experiment is part of the EU FP7 project ROSETTA. We organized this experimental campaign to address the problem of physiological stress during human–robot coexistence. The experiments are aimed at investigating the reactions of subjects to robot trajectories. During the experiments no physical interaction with the robot is expected. Please stand relaxed and possibly avoid strong voluntary movements. Physiological data (ECG, EMG and SCR) will be acquired with medical instruments.
+                     
+
+The researchers prepared the volunteer attaching ECG, EMG and SCR probes and checked their correct behaviour by asking the volunteer to contract three times the corrugator muscle. The researchers then checked the correct alignment of the volunteer to the table and asked him to place his hands on the table and to get a comfortable and relaxed position.
+
+Approximately 180 s of physiological data have been acquired before triggering the robot motion, of which the last 10 s will be regarded as baseline for subsequent analyses. Then, the assembly-like task and the corresponding redundancy resolution were activated. The robot performed three cycles (one for each type of redundancy resolution). During each cycle the assembly task was repeated twice with the same redundancy resolution scheme. The total duration of the motion was approximately 120 s, while the total duration of one session (including instructions, sensors arrangement, and setup) was about 10 min.
+
+Notice that each subject experienced the three redundancy resolution methods in different sequence in order to remove the possible effects of prior experiences of the robot motion, which may influence and bias the measurements, as pointed out in (Bartneck et al., 2008).
+
+A short interview was finally taken to collect subjective impressions from the volunteer, concerning the perceived safety, naturalness of the robot motion and an estimate of the emotional state (boredom, anxiety, etc.).
+
+This Section describes the procedure adopted to extract relevant features from the raw acquired signals. Particular attention was paid to minimize the effect of artifacts, which might invalidate subsequent analyses.
+
+From raw ECG data, a filter was applied in order to recognize QRS complex and estimate the time instant corresponding to the R peak. Therefore, the output signal is simply a train of pulses, corresponding to the depolarization of the left ventricular, which is responsible of the R peak in the ECG waveform. Then, the time interval between the subsequent R peaks (called RR interval) was measured. The resulting discrete time signal, updated at the end of each RR interval, is usually called tachogram. Spline interpolation has been finally applied to increase the time resolution of the tachogram. The HRV was then computed using a frequency domain analysis, by means of the estimation of its PSD.
+
+Since the portion of each experiment related to a particular redundancy resolution scheme is very short in time, the tachogram was first re-sampled at 4 
+                              
+                                 Hz
+                              
+                           , and the overall linear trend, corresponding to the VLF (Very-Low Frequency) bandwidth 
+                              
+                                 <
+                                 0.04
+                              
+                            
+                              
+                                 Hz
+                              
+                           , was removed. Then, following modern approaches in the analysis of the HRV signal, see e.g. (Carvalho et al., 2003), an AR (Auto Regressive) model of order 15 was identified using the well-known Yule–Walker equations. The PSD of HRV signal has been therefore estimated directly from the AR model coefficients, (Akaike, 1969), rather than applying the FFT (Fast Fourier Transform) to the HRV signal. This way a smoother PSD with a higher frequency resolution was obtained. Fig. 6
+                            shows the frequency domain analysis of the HRV related to one of the experiments.
+
+While most of the existing methods to analyse EMG signals are related to muscular force estimation, this work is rather focused on stress assessment. For this reason, an accurate estimation of the intensity and of the total duration of each contraction is not considered here.
+
+The analysis of the muscle activity developed in this work is based on the detection of the so called onsets and offsets, (Hodges and Bui, 1996). An onset is defined as the time interval during which the muscle is contracted, whereas an offset corresponds to a negligible muscle activity. In order to estimate whether the corrugator muscle was contracted (onset) or not (offset) a windowing approach was introduced. It was first noticed that the level of noise measured during the baseline acquisition was significantly lower with respect to the one measured during the actual experiment. Therefore, in order to remove the noise, the median of the entire acquisition was first measured and then removed from the acquired signal. Then, the IQR (Inter Quartile Range) was computed and used as an estimate of the noise amplitude. Finally, a candidate onset was recognized when EMG activity was greater or equal to 2.0 
+                              
+                                 IQR
+                              
+                            for at least 
+                              
+                                 Δ
+                                 t
+                                 =
+                                 40
+                              
+                            ms. The onset recognition was then confirmed if the maximum level of the EMG signal was greater or equal to 3.0 
+                              
+                                 IQR
+                              
+                           . The resulting onsets/offsets signal is shown in Fig. 7
+                           .
+
+The measured skin conductance has been first re-sampled at 16 Hz and then filtered with a Butterworth high-pass filer of order 6 with a cut-off frequency
+                              2
+                           
+                           
+                              2
+                              Notice that the value 0.04 Hz is the same used for the VLF/LF separation in the HRV analysis.
+                            of 0.04 Hz. This way, the DC level of the SC signal, which turned out to contain a significant drift, has been removed.
+
+In the following, the final analysis of the post-processed experimental data is reported. In particular, the definition of statistics aimed at quantifying the robot-induced stress is explained.
+
+For the ECG signal, a common way to assess the dominance of the sympathetic nervous system with respect to the parasympathetic one, is to measure the ratio between the power associated to the two corresponding bands of frequency, (McCraty et al., 1995). Therefore, the following statistics was computed
+                              
+                                 (2)
+                                 
+                                    
+                                       
+                                          s
+                                          
+                                             ECG
+                                          
+                                          
+                                             i
+                                             ,RR
+                                          
+                                       
+                                       =
+                                       
+                                          
+                                             
+                                                
+                                                   LF
+                                                
+                                                
+                                                   i
+                                                   ,RR
+                                                
+                                             
+                                          
+                                          
+                                             
+                                                
+                                                   HF
+                                                
+                                                
+                                                   i
+                                                   ,RR
+                                                
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                           where
+                              
+                                 (3)
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                LF
+                                                
+                                                   i
+                                                   ,RR
+                                                
+                                             
+                                             =
+                                             
+                                                
+                                                   ∫
+                                                   
+                                                      0.04
+                                                      Hz
+                                                   
+                                                   
+                                                      0.15
+                                                      Hz
+                                                   
+                                                
+                                                
+                                                   
+                                                      
+                                                         PSD
+                                                      
+                                                      
+                                                         i
+                                                         ,RR
+                                                      
+                                                   
+                                                   
+                                                      (
+                                                      f
+                                                      )
+                                                   
+                                                   d
+                                                   f
+                                                
+                                             
+                                          
+                                       
+                                       
+                                          
+                                             
+                                                HF
+                                                
+                                                   i
+                                                   ,RR
+                                                
+                                             
+                                             =
+                                             
+                                                
+                                                   ∫
+                                                   
+                                                      0.15
+                                                      Hz
+                                                   
+                                                   ∞
+                                                
+                                                
+                                                   
+                                                      
+                                                         PSD
+                                                      
+                                                      
+                                                         i
+                                                         ,RR
+                                                      
+                                                   
+                                                   
+                                                      (
+                                                      f
+                                                      )
+                                                   
+                                                   d
+                                                   f
+                                                
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                           while 
+                              
+                                 i
+                                 =
+                                 1
+                                 ,
+                                 …
+                                 ,
+                                 18
+                              
+                            and 
+                              
+                                 RR
+                                 ∈
+                                 
+                                    {
+                                    
+                                       HL
+                                       ,
+                                       nHL
+                                       ,
+                                       nHLTV
+                                    
+                                    }
+                                 
+                              
+                           .
+
+As for the EMG activity of the corrugator muscle, the number of contractions per minute, regardless their duration and intensity, was counted:
+                              
+                                 (4)
+                                 
+                                    
+                                       
+                                          s
+                                          
+                                             EMG
+                                          
+                                          
+                                             i
+                                             ,
+                                             RR
+                                          
+                                       
+                                       =
+                                       
+                                          
+                                             60
+                                          
+                                          
+                                             
+                                                t
+                                                f
+                                             
+                                             −
+                                             
+                                                t
+                                                0
+                                             
+                                          
+                                       
+                                       
+                                          
+                                             ∫
+                                             
+                                                
+                                                   t
+                                                   0
+                                                
+                                             
+                                             
+                                                
+                                                   t
+                                                   f
+                                                
+                                             
+                                          
+                                          
+                                             edge
+                                             
+                                                (
+                                                
+                                                   
+                                                      
+                                                         onsets
+                                                      
+                                                      
+                                                         i
+                                                         ,
+                                                         RR
+                                                      
+                                                   
+                                                   
+                                                      (
+                                                      t
+                                                      )
+                                                   
+                                                
+                                                )
+                                             
+                                             d
+                                             t
+                                          
+                                       
+                                    
+                                 
+                              
+                           where 
+                              
+                                 edge
+                                 
+                                    (
+                                    ⋅
+                                    )
+                                 
+                              
+                            is a function returning a unit Dirac pulse corresponding to rising edges of the input.
+
+For the analysis of the skin conductance, the following statistics has been considered:
+                              
+                                 (5)
+                                 
+                                    
+                                       
+                                          s
+                                          
+                                             SCR
+                                          
+                                          
+                                             i
+                                             ,
+                                             RR
+                                          
+                                       
+                                       =
+                                       
+                                          1
+                                          
+                                             
+                                                t
+                                                f
+                                             
+                                             −
+                                             
+                                                t
+                                                0
+                                             
+                                          
+                                       
+                                       
+                                          
+                                             ∫
+                                             
+                                                
+                                                   t
+                                                   0
+                                                
+                                             
+                                             
+                                                
+                                                   t
+                                                   f
+                                                
+                                             
+                                          
+                                          
+                                             
+                                                
+                                                   
+                                                      (
+                                                      
+                                                         
+                                                            
+                                                               SCR
+                                                            
+                                                            
+                                                               HighPass
+                                                            
+                                                            
+                                                               i
+                                                               ,
+                                                               RR
+                                                            
+                                                         
+                                                         
+                                                            (
+                                                            t
+                                                            )
+                                                         
+                                                      
+                                                      )
+                                                   
+                                                
+                                                2
+                                             
+                                             d
+                                             t
+                                          
+                                       
+                                    
+                                 
+                              
+                           which, apart from some scaling factors, corresponds, from Parseval's theorem, to the integrated PSD of the SCR over the frequency range 
+                              
+                                 
+                                    [
+                                    
+                                       0.04
+                                       
+                                       Hz
+                                       ,
+                                       ∞
+                                    
+                                    )
+                                 
+                              
+                           . Notice that the statistics introduced in (5) captures all the phasic SC features, i.e. the number of SCR (onsets), their intensity and duration, regardless the SCL and slowly-varying fluctuations which typically characterize tonic electro-dermal activity.
+
+We finally introduce a robot-related statistics defining the average elbow elevation statistics:
+                              
+                                 (6)
+                                 
+                                    
+                                       
+                                          s
+                                          
+                                             elbow
+                                          
+                                          
+                                             RR
+                                          
+                                       
+                                       =
+                                       
+                                          1
+                                          
+                                             
+                                                t
+                                                f
+                                             
+                                             −
+                                             
+                                                t
+                                                0
+                                             
+                                          
+                                       
+                                       
+                                          
+                                             ∫
+                                             
+                                                
+                                                   t
+                                                   0
+                                                
+                                             
+                                             
+                                                
+                                                   t
+                                                   f
+                                                
+                                             
+                                          
+                                          
+                                             
+                                                z
+                                                
+                                                   elbow
+                                                
+                                                
+                                                   i
+                                                   ,
+                                                   RR
+                                                
+                                             
+                                             
+                                                (
+                                                t
+                                                )
+                                             
+                                             d
+                                             t
+                                          
+                                       
+                                    
+                                 
+                              
+                           where 
+                              
+                                 
+                                    z
+                                    
+                                       elbow
+                                    
+                                    
+                                       RR
+                                    
+                                 
+                              
+                            represents the instantaneous elevation of the elbow during the experiment.
+
+For each statistics (EMG, ECG, and SCR) the Kruskal–Wallis ranking test was first performed to exclude possible correlation between the three groups (HL, nHL, and nHLTV). Figs. 8 and 9
+                     
+                      report the boxplots of the normalized ECG and EMG statistics, respectively. At first glance, the ECG and the EMG statistics agree in predicting a clear trend. In order to obtain a more rigorous verification of this conjecture, the Page's l-test and the Jonckheere's trend test were computed for both the ECG and the EMG statistics.
+
+The SCR statistics does not exhibit the same trend noticed for both the ECG and the EMG statistics, and deserves a more detailed discussion. For the SCR analysis, we here make use of a different ordering of the three robot trajectories by using the average elbow elevation statistics 
+                        
+                           
+                              s
+                              
+                                 elbow
+                              
+                           
+                        
+                     , which results in the following order 
+                        
+                           
+                              s
+                              
+                                 elbow
+                              
+                              
+                                 HL
+                              
+                           
+                           <
+                           
+                              s
+                              
+                                 elbow
+                              
+                              
+                                 nHLTV
+                              
+                           
+                           <
+                           
+                              s
+                              
+                                 elbow
+                              
+                              
+                                 nHL
+                              
+                           
+                        
+                     . Using this alternative order of the three motions, the resulting boxplot of Fig. 10
+                      lends itself to a meaningful trend analysis. In fact, a positive trend of this statistics with respect to the average elbow elevation can be now reported. The Page's l-test and the Jonckheere's trend test were computed. The results of the two trend tests, as well as of the Kruskal–Wallis correlation analysis, are reported in Table 1
+                     .
+

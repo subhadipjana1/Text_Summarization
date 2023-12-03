@@ -1,0 +1,68 @@
+->Discomfort ratings were significantly higher for tight pants than fit
+->Trunk muscle activity of rectus abdominis  and erector spinae  muscles were also measured in each trial and normalized
+->Results revealed significant effects of both pants and task types on the normalized LRoM trunk muscle activity and subjective ratings of LBD
+->These results provide guidance for recommendations on work clothing fit in specific types of MMH activities in order to reduce the potential of lowback pain among younger workers in industrial companies
+->Twentyeight young adults participated in the study performing box lifting liquid container handling while squatting and forward reaching while sitting on a task chair when wearing tight pants  vs fit pants
+->Each task was repeated three times and video recordings were used as a basis for measuring lumbar range of motion
+->Effects of restrictive clothing on lumbar range of motion and trunk muscle activity in young adult worker manual material handling
+->There is a need to look at the influence of restrictive garments on LRoM and pain experiences in other working age groups such as the elderly
+->Therefore the findings of this study cannot be extrapolated to overweight or obese persons
+->A link between the findings of this study and LBP may be limited due to the analysis approach
+->This study observed that restriction of hip mobility due to tight pants may lead to a compensatory response of increased lumbar motion in manual handling tasks as well as reduced lower trunk muscle activation levels
+->For small to medium size companies  that may not provide workers with uniforms companies should provide information on the potential for lowback discomfort associated with wearing tight pants and recommend fit or comfortable personal protective work clothing be worn during MMH tasksRegarding limitations of the present study we did not examine LRoM trunk muscle activity and back discomfort in more complex physical tasks such as asymmetrical lifting
+->Finally this study did not measure HRoM during task performance and only measured subjective low back discomfort rather than low back pain
+->Second we only investigated the effect of tight pants on young adult performance of MMH tasks
+->Fourth although the RA and ES muscles act as prime movers during trunk bending tasks other anterolateral abdominal and low back muscles across the waist including the internal oblique transversus abdominis  quadratus lumborum and lumbar multifidus muscles are important to stabilization of the lumbar spine during bending and lifting tasks
+->Future study should use biomechanical methods such as a motion tracking system and 3DSSPP to estimate compressive loads and shear forces at the lumbar spine for this purpose
+->Therefore advance testing in these aspects should be considered in future studyThe authors have no personal or financial conflicts of interest associated with this work
+->On this basis it is hypothesized that lower back muscles decrease their supporting role  during full trunk flexion resulting from reflexogenic stimulation of stretch receptors in passive structures specifically the posterior spinal ligaments
+->Therefore EMG measured muscle activity decreases with elongationChanges in spine and hip mobility and trunk muscle activations can lead to stresses at the lumbar motion segment including altered loads and forces on spinal joints and the posterior spinal ligaments
+->Tight pants specifically sizes smaller than fit to a wearers anthropometry may restrict hip movement and alter trunk muscle activity during work tasks and leisure
+->Conversely little if any research has focused on the impact of wearing excessively tight clothing at work such as tight pants on occupational illnesses for workers such as LBPThe objective of this research was to investigate the effect of wearing tight pants  on hip and lumbar spine movement trunk muscle activity and perceived lowback discomfort in young adults
+->Specifically we compared young adult lumbar range of motion associated trunk muscle activity and low back discomfort  during box lifting manual material handling  while squatting and forward reaching while sitting on a chair
+->Epidemiologic studies have reported that tasks involving lifting with repetitive trunk bending and heavy loads pose risk factors for low back pain
+->These findings are in accordance with high LBP prevalence rates for workers in the USA and Switzerland Trunk bending requires multijoint coordination for lumbopelvic and hip movements as well as trunk muscle activation
+->The study was expected to complement prior research in the safety area by focusing on risks associated with wearing restrictive garments in work tasks vs loose fitting clothing hazardsWe previously reported on a preliminary study  of a similar nature involving a smaller sample size and no assessment of trunk muscle activity
+->In Thailand the prevalence of LBP among adolescent workers attributed to bending and reaching tasks was approximately 77
+->Beyond this with reference to the lengthtension relationship theory Aratow
+->All tasks were performed by participants when wearing tight vs fit  pants
+->The study followed a completely withinsubjects design with all participants being exposed to all combinations of garment fit and leisure or work task type
+->One researcher inspected all image files and the video frames used for analysis were selected based on when a participant achieved maximal trunk bending during each task
+->As previously mentioned each task was repeated three times by each participant with a single trial lasting approximately 5s
+->Once a participant completed all trials in the first task they moved on to the second task type and then the third
+->At the completion of the second batch of test trials participants were debriefed and dismissed from the experiment
+->The entire experiment procedure took about 2h per participantTrunk muscle activity was recorded using surface electromyography  specifically a BIOPAC MP 36 system
+->The lumbar range of motion was analyzed using video frame extraction software a computer drawing application and graphical measurement package
+->The maximum RMS value for the EMG for each muscle in each trial was then amplitude normalized to the maximal voluntary isometric contraction  for the same muscle captured in advance of the test trials
+->Symmetrical manual resistance was applied to the scapular region by an experimenter who stood at the head of the participant
+->There were three MVIC trials of 5s each with a 3minute rest period between trials in order to avoid the cumulative effect of muscle fatigue The normalized response EMG was expressed as a percentage of MVIC
+->The average of the three normalized EMG observations for each pant typetask type condition was subsequently determined for each participant for statistical analysis purposesRegarding the lumbar range of motion measurement reflective markers were placed at vertebral joints along the spine T10 L2 L4 and S2
+->Subsequent to donning a pair of pants the participants hip range of motion was assessed in a supine posture position on a standard medical examination table
+->Lumbar movement was recorded with a digital video camera
+->To generate MVICs for the right RA muscle participants laid in a supine position with both legs straight and strapped to a standard medical table with a belt
+->These values were used as denominators in normalizing the various LROM responsesAfter each trial participants rated their lowback discomfort using a 100mm visual analog scale with anchors including none to intolerable
+->Beyond this the task types were expected to differ in normalized LRoM trunk muscle activation levels as well as perceived discomfort due to wholebody posture variations among the tasks
+->Specifically box lifting was expected to the generate greatest RoM muscle activity and discomfort ratings due to extreme spinal flexion compared to MMH while squatting and extreme forward reachingDiagnostics of the normalized LRoM and the VAS ratings revealed the data to be normally distributed and to have equal variances across the types of pants and tasks
+->The feeling of lowback discomfort as measured with the VAS was expected to increase as a result of tight pant use
+->For the RA muscle active electrodes were placed on the anterior abdomen at the level of the umbilical and medial to sagittal plane
+->A ground electrode was placed over the posterior portion of the iliac crestFor both muscles EMG signals were recorded at 1024Hz
+->The signals were postprocessed using lowand highpass band filters and a 50Hz notch filter
+->The procedure for the experiment involved randomly assigning a participant to one of two groups including those wearing tight pants first followed by fit pants and those wearing fit pants first followed by tight pants
+->After having completed all nine test trials participants were permitted a 10min rest period while wearing a pair of fit shorts
+->An analyst used a metric ruler to measure the distance from the none anchor to the location of a marking and data was manually entered into a computer for analysis purposesWe expected that tight pants typical of the style currently worn by Thai adolescents would decrease hip mobility  when compared to fit pants
+->We measured the right side muscle EMG levels based on other previous studies that also chose to observe the right side of trunk muscles
+->A ground was placed over the anterior portion of the iliac crest on the same side as the muscle being measured
+->Regarding the ES active electrodes were placed on the low back at the level of L1 and medially to the lumbar spine
+->Wearing hip restrictive clothing may increase the potential for lowback discomfort
+->Comparisons were made of tight vs fit pants during manual material handling tasks
+->Tight pants led to an increase in lumbar motion and reduced trunk muscle activity
+->The mean HRoM in flexion for tight pants was 87 which was significantly less than for the fits pants with a mean HRoM of 103
+->With respect to the HRoM in extension the mean HRoM for tight pants was 21 which was significantly less than for fits pants with a mean HRoM of 27
+->In line with hypothesis ES muscle activity was significantly higher for participants when wearing fit pants  as compared to tight pants see Fig
+->Posthoc analyses revealed activation levels for both trunk muscles were significantly higher  for participants when performing box lifting task followed by squatting and forward reaching which were not different from each other see Fig
+->However contrary to the hypothesis posthoc analysis revealed participants to perceive squatting to cause significantly greater  discomfort followed by lifting and reaching which were not different from each other Fig
+->A statistical model was initially constructed with five independent variables including 1 participant 2 pants type 3 order of pants 4 task type and 5 order of task as well as an interaction term of pant and task types
+->Both order of pants and tasks did not have significant effects on any response measure so the order of participant exposure to conditions was dropped from the statistical modelsWith respect to normalized LRoM results revealed significant effects for both pant  and task type
+->A series of univariate ANOVA models were conducted on transformed muscle activity of RA transformed muscle activity of ES normalized LRoM and perceived lowback discomfort responses
+->There was no significant effect of the pantstask type interaction term on EMG ES or RASignificant effects for both pants  and task type  were also found for the subjective ratings of lowback discomfort
+->Results also revealed no significant effect of the interaction term on lowback discomfort

@@ -1,0 +1,8 @@
+
+
+One participant was excluded prior to data collection due to a recent musculoskeletal injury, leaving fifty-two participants that completed all required testing. Participant characteristics (Table 1
+                     ) represented a broad range of ages, body sizes (BMI), and cardiorespiratory fitness levels. For example, VO2max test scores ranged from 31.53 to 67.69 ml·kg−1·min−1 and BMI values from 20.71 to 35.62 kg·m2. During maximal testing all participants' heart rates were within 10 b·min−1 of their age predicted maximum heart rate (APMHR, 220-age) and RER >1.1.
+
+Two participants (VO2max scores of 31.53 and 34.05 ml·kg·min−1 – the lowest in the testing sample) were unable to complete the loaded 5-min run at the specified speed and completed the final 40–50 s with the treadmill speed lowered to 12 km·h−1. While this a priori protocol change did not appear to influence their physiological measurements, 5-min run data from these participants were omitted from the statistical analysis. The mobility tasks were negatively affected by loading with mean decreases in performance ranging from 13 to 42% (p < 0.001). Participants worked significantly harder (↑%HRmax, ↑%VO2max, ↑RER and ↑RPE; p < 0.001) while loaded during the 5-min run. Mobility task performance was further reduced (6–16%, p < 0.001) after the run but only while participants were loaded – there were no differences in unloaded task performance between the different phases (Table 2
+                        ).
+

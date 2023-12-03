@@ -1,0 +1,42 @@
+
+
+
+               
+               
+                  
+                     
+                        
+                           
+                           Resolution of the kinematic redundancy in robotic manipulators inspired by human movements.
+
+
+                        
+                        
+                           
+                           Experimental campaign on volunteers to gather physiological signals.
+
+
+                        
+                        
+                           
+                           Assessment of physiological comfort/discomfort as a function of the adopted redundancy resolution criterion.
+
+
+                        
+                        
+                           
+                           Human-like movements of the robot alleviate the stress during human-robot coexistence.
+
+
+                        
+                        
+                           
+                           Non human-like movements are responsible for a more stressful affective state of humans.
+
+
+                        
+                     
+                  
+               
+            
+

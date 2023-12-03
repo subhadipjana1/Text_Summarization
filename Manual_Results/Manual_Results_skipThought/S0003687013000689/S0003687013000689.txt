@@ -1,0 +1,32 @@
+->The inanimate bicycle symbol has long been used to indicate the animate activity of bicycling facility signs
+->The purpose of this study was to examine two different designs  involved in the evaluation of perceived preference and glance legibility and investigate sign design features on bicycle pictorial symbols
+->The results indicated that the alternative designs  showed better performance in both preference and glance legibility tests
+->Conceptual compatibility familiarity and perceptual affordances were found to be important factors as well
+->This has led to confusion among pedestrians and cyclists alike
+->The effects of sign design features on bicycle pictorial symbols for bicycling facility signs
+->Traffic signs play a vital role in creating a safer environment for drivers bikers and pedestrians
+->Although inanimate bicycle signs have been the standard for over 30 years this study confirms that animate bicycle symbols should be considered in the redesign of bicycling facility signs
+->Prior to beginning the study participants visual acuity was examined using the Snellen Eye Chart
+->Participants were not timed they were given sufficient time to determine their preferences and describe their reasoningIn the glance legibility test participants were required to sit in a fixed position
+->Each symbol was displayed for one second on the LCD monitor and between displays an abstract roadway image was displayed in order to remove any iconic memory within the eye
+->The average time required to complete the experiment was approximately 60min
+->The distance between the LCD monitor and the participants position was 20ft  which was designed to replicate 2020 visual acuity with midsized symbols in the 5 sizes
+->To remove potential distractions all nonrelated objects in the experimental space were covered with white sheets
+->Upon entering the lab participants completed an informed consent document and demographic questionnaire which included visual acuity color vision deficiency and driving experience
+->The alternative designs  performed better in both the preference test and the glance legibility test
+->The alternative designs  showed better conceptual compatibility for bicycling facility signs
+->The alternative designs  were more legible than the current sign
+->We examined two different designs  on bicycle pictorial symbols
+->Additional posthoc paired comparisons using Z tests showed that there were significant differences between the current bicycle sign and the alternative sign only in the bicycling warning application Fig
+->The results revealed differences in alternative designs and the current bicycle symbol
+->In particular the results showed that the current bicycle symbol has greater detrimental effect on legibility than the alternative designs
+->In all conditions one of the three alternative designs  was preferred to the current riderless bicycle signA ShapiroWilk test of normality was conducted to determine the distribution of the dependent variables
+->Apart from that single application no significant differences between the current bicycle sign and alternative designs in bicycling and nobicycling applications were observedParticipants opinions on most preferred signs from the openended question were qualitatively analyzed using thematic analysis to identify the common reasons of participants preference
+->A mixed model ANOVA with symbol series and color was used to test differences in the model as well as group differences accounting for variance in legibility
+->The percent of correctlychosen symbols in each condition was calculated to use as the legibility fraction Table4
+->Two effects were found to be statistically significant symbol F                        4474 p00001 and series F                        4915 p00001
+->The mean rankings for all conditions are shown in Table1
+->The qualitative results from participant responses are shown in Table3
+->The qualitative results in Table2                         represent participants responses and redundant responses were emitted
+->Participants responses such as most representative of a person riding a bike were based on the actual words reported by participants to describe the reason of their preference
+->In addition the percentage and number of participants choosing each sign were noted

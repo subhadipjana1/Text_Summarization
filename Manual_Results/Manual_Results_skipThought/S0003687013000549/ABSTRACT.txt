@@ -1,0 +1,9 @@
+
+
+
+               
+               
+                  Non-neutral wrist posture is a risk factor of the musculoskeletal disorders among computer users. This study aimed to assess internal loads on hand and forearm musculature while tapping in different wrist postures. Ten healthy subjects tapped on a key switch using their index finger in four wrist postures: straight, ulnar deviated, flexed and extended. Torque at the finger and wrist joints were calculated from measured joint postures and fingertip force. Muscle stresses of the six finger muscles and four wrist muscles that balanced the calculated joint torques were estimated using a musculoskeletal model and optimization algorithm minimizing the squared sum of muscle stress. Non-neutral wrist postures resulted in greater muscle stresses than the neutral (straight) wrist posture, and the stress in the extensor muscles were greater than the flexors in all conditions. Wrist extensors stress remained higher than 4.5 N/cm² and wrist flexor stress remained below 0.5 N/cm² during tapping. The sustained high motor unit recruitment of extensors suggests a greater risk than other muscles especially in flexed wrist posture. This study demonstrated from the perspective of internal tissue loading the importance of maintaining neutral wrist posture during keying activities.
+               
+            
+

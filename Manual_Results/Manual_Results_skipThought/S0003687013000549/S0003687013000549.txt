@@ -1,0 +1,30 @@
+->Nonneutral wrist posture is a risk factor of the musculoskel disorders among computer users
+->Nonneutral wrist postures resulted in greater muscle stresses than the neutral  wrist posture and the stress in the extensor muscles were greater than the flexors in all conditions
+->This study aimed to assess internal loads on hand and forearm musculature while tapping in different wrist postures
+->This study demonstrated from the perspective of internal tissue loading the importance of maintaining neutral wrist posture during keying activities
+->Ten healthy subjects tapped on a key switch using their index finger in four wrist postures straight ulnar deviated flexed and extended
+->Torque at the finger and wrist joints were calculated from measured joint postures and fingertip force
+->Wrist posture affects hand and forearm muscle stress during tapping
+->Specifically wrist deviations in extension or radial deviation while typing are associated with an increase in pressure
+->In addition posture also affects muscle force and activation patterns Computational biomechanical models have been used to estimate muscletendon force based on external measures  because direct invivo measurement of internal loading is invasive and technically difficult
+->Despite abundant epidemiologic evidence of association between awkward wrist postures and musculoskel symptomsdisorders little is known about how internal tissue loading is affected by joint posture during computer useBiomechanically these nonneutral postures can increase internal loading on the muscles and joints
+->It is important to include both the finer and the wrist joints to study keying activities because several muscletendon units articulate both finger and wrist joints
+->A review of the physiological evidence suggests that a plausible basis for the pathogenesis of muscle disorders of the upper extremity in lowintensity tasks is sustained motor unit recruitment and homeostatic disturbances coincided with sustained lowintensity muscle activity Sustained lowintensity muscle activity has been associated with adducted and extended wrist postures during keyboard intensive tasks
+->These models use passive finger muscle properties obtained from cadaveric work  which were found to overestimate the passive joint torques measured in experiment
+->New data for the passive finger muscle force assessment parameters have been proposed which can improve the estimation of muscle force using biomechanical models of the hand The objective of this study is to quantify the effect of wrist posture on resultant hand and forearm muscle stress  during tapping on a computer keyboard using a computational biomechanical model
+->Intensive keyboard use has been associated with an increased risk of developing musculoskel symptoms and disorders of the hand wrist and arm
+->Symptoms include pain tingling numbness stiffness and disorders such as carpal tunnel syndrome and tendinitis
+-> reported that changes in wrist posture altered carpal tunnel pressure which may contribute to the development or aggravation of carpal tunnel syndrome
+->We quantified the effect of four wrist postures during tapping on resulting finger and wrist muscle stress
+->Neutral wrist posture was the optimal option among four tested wrist postures when all muscles were considered
+->MCP joint flexion angle in ADD condition was less than other conditions
+->MCP adducted 34  degrees in FLX condition while abducted in other conditions
+->Mean wrist adduction torque did not differ among conditions
+->Muscle stresses of wrist extensors ECR and ECU peaked at the time of keystroke and remained higher than 45Ncm during the tap
+->Wrist flexors FCR and FCU stresses were lower than 05Ncm throughout the whole duration of a tap
+->Mean wrist extension torque was larger during tapping in NTL and FLX configurations compared to ADD and EXT
+->The passive stress of the wrist extensors  were less than 04Ncm while the active components were greater than 15Ncm
+->These patterns were similar among different conditions and across subjectsForearm extensor stress averaged across the taps varied among the four wrist postures
+->The extended wrist posture was associated with the highest passive flexor stresses while the flexed wrist posture was associated with the lowest passive flexor stresses
+->The highest total muscle forces of three intrinsic muscles occurred in the adducted wrist posture
+->Finger flexor  stresses increased shortly after the contact with the key switch peaked around the point of maximum fingertip force and gradually decreased afterwards

@@ -1,0 +1,10 @@
+
+
+
+               
+               
+                  Next generation robotic manipulators are expected to resemble a human-like behavior at kinematic level, in order to reach the same level of dexterity of humans in operations like assembly of small pieces. These manipulators are also expected to share the same working environments with humans without artificial barriers.
+                  In this work we conjecture that making robots not only kinematically similar but also able to move and act in the same way as humans do, might facilitate their social acceptance. For this the kinematic redundancy of such new generation manipulators can be exploited. An experimental campaign has been organized to assess the physiological comfort/discomfort perceived by humans working side-by-side with robots. For comparison, a human-like and two alternative redundancy resolution strategies have been implemented. The analysis confirmed the hypothesis that a human-like motion of the robot helps in facilitating social acceptance, by reducing the perceived stress by humans in human-robot coexistence.
+               
+            
+

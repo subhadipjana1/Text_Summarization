@@ -1,0 +1,19 @@
+
+
+The mean rankings for all conditions are shown in Table 1
+                        . A lower mean ranking indicates higher preference. In all conditions, one of the three alternative designs (the bicycle symbol with a rider, handlebars, and implied bicycle frame within the wheels) was preferred to the current “riderless” bicycle sign.
+
+A Shapiro–Wilk test of normality was conducted to determine the distribution of the dependent variables. All distributions were non-normal. Consequently, non-parametric tests were conducted for subsequent analyses. A Friedman test (two-way non-parametric ANOVA) was used to determine whether there were significant differences between rankings of symbols in each question. Results indicated that there were significant differences among the rankings of the six signs in three applications, p < 0.0001. Additional post-hoc paired comparisons using Z tests showed that there were significant differences between the current bicycle sign and the alternative sign only in the bicycling warning application (Fig. 2
+                        ). Apart from that single application, no significant differences between the current bicycle sign and alternative designs in bicycling and no-bicycling applications were observed.
+
+Participants' opinions on most preferred signs from the open-ended question were qualitatively analyzed using thematic analysis to identify the common reasons of participants' preference. The qualitative results in Table 2
+                         represent participants' responses and redundant responses were emitted. Participants' responses, such as ‘most representative of a person riding a bike’ were based on the actual words reported by participants to describe the reason of their preference. In addition, the percentage and number of participants choosing each sign were noted. For example, in the bicycling application, 13 participants preferred the current bicycle sign, whereas 19 participants preferred one of alternative bicycle designs (the one featuring a handlebar and implied bike frame) and 3 participants preferred the other alternative bicycle designs among total 35 participants.
+
+With respect to sign applications for pedestrian and bicycler crossings, hills, and bicycle surface conditions, participants also preferred the alternative design. The qualitative results from participant responses are shown in Table 3
+                        .
+
+The percent of correctly-chosen symbols in each condition was calculated to use as the legibility fraction (Table 4
+                        ). A mixed model ANOVA with symbol, series, and color was used to test differences in the model, as well as group differences accounting for variance in legibility. Two effects were found to be statistically significant: symbol, F
+                        (9, 306) = 44.74, p = 0.0001 and series, F
+                        (4, 136) = 49.15, p = 0.0001. With regard to color (positive or negative contrast), there was no significant effect. To determine which of ten symbols were significantly different, post-hoc paired comparisons were conducted using a least squares difference test. The results revealed differences in alternative designs and the current bicycle symbol. In terms of the series, responses were significantly different from each other, which describes decreased legibility along with decreased symbol size. In particular, the results showed that the current bicycle symbol has greater detrimental effect on legibility than the alternative designs. For example, the current bicycle symbol (sign 1) showed 14% (green: series 1) and 57% (green: series 2) of correctly answered results, while the alternative design (sign 2) had 71% (green: series 1) and 80% (green: series 2) of correctly answered results on Table 4.
+

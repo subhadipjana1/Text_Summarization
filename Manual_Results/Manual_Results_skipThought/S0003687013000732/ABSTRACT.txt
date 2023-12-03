@@ -1,0 +1,9 @@
+
+
+
+               
+               
+                  Despite increased implementation of computer control systems in managing and regulating rail networks, mechanical signal boxes using lever operation will be in place for years to come. A rolling risk assessment programme identified a number of levers in mechanical signal boxes within the UK rail network which potentially presented unacceptable personal safety risk to signallers. These levers operate both points and signals and the risk is primarily the weights which have to be moved when pulling and pushing the levers. Operating difficulties are often compounded by the design and condition of lever frames, the linkages to the points/signals, maintenance regimes, the workspace and the postures and strategies adopted by signallers. Lever weights were measured as from 15 kg to 180 kg at over 160 boxes, using a specially designed and constructed device. Taken together with examination of injury and sickness absence data, interviews and field observations, and biomechanical computer modelling, the measurement programme confirmed the potential risks. A risk management programme has been implemented, comprising lever weight measurement, training of operations staff, a structured maintenance regime and renewal or redesign for boxes/levers where, after maintenance, a criterion weight level is still exceeded. For a feasible management programme, the first alert (or 1st action) value for further assessment is 55 kg, a second action level requiring specified maintenance is 80–99 kg, and a third action level requiring the lever to be signed out of use is 100 kg.
+               
+            
+

@@ -1,0 +1,78 @@
+
+
+We used cross-sectional questionnaire data from a subsample of the 2006-survey of The Danish Longitudinal Study on Work, Unemployment and Health (Christensen et al., 2006).
+
+In 2000, a random sample of individuals aged 40 or 50 years by 1st of October 1999 (n = 11,082, response rate 68.5%, final sample 7588) was drawn from The Danish Institute of Governmental Research Longitudinal Register. This register contains data on 10% of the Danish population aged 15 years or older. Data for the survey were collected by postal questionnaires, including two reminders for non-respondents.
+
+In 2006, 4893 of the now 46- and 56-year old baseline respondents (64.5%) returned a follow-up questionnaire which included questions on demand-specific work ability. The subsample used in the present paper comprised the 3381 participants who indicated the length of their vocational education and who were full-time employed (>30 h per week) at the time of the data collection. The distribution of gender, vocational education, health, working condition and reduced demand-specific work ability for each age group is presented in Table 1
+                        .
+
+The participants were asked three questions about MSP: i) Do you have pain in the upper part of your back or neck? ii) Do you have low back pain? iii) Do you have pain in other joints (e.g., fingers, shoulders, hips, knees, or ankles)? The six response options were ‘yes, daily’, ‘yes, a couple of times each week’, ‘a couple of times each month’, ‘yes, but not more than once a month’, ‘yes, more seldom’, and ‘no, never’. We defined MSP cases as respondents that were severely affected by MSP, i.e. participants with daily MSP (i.e. answering ‘yes, daily’ to at least one of the questions on MSP) and we defined MSP non-cases as participants without daily MSP.
+
+To measure MD we used the Major Depression Inventory (MDI) which contains a symptom list that covers the ICD-10 and DSM-IV symptoms of depression. The MDI includes 12 questions, for example, ‘Have you felt low in spirits or sad? Have you felt that life wasn't worth living?’ and ‘Have you had trouble sleeping at night?’. The six response options ranged from ‘all the time’ (coded 5), ‘most of the time’ (coded 4), ‘a slightly more than half of the time’ (coded 3), ‘slightly less than half of the time’ (coded 2), ‘some of the time’ (coded 1) ‘at no time’ (coded 0). For each participant, a mean score was calculated according to the manual with higher scores indicating more depressive symptoms (range: 0–50) (Bech et al., 2001). Responders were dichotomized into participants with and without major depression (MD) (cut point by 26 points as recommended by Bech et al. (2001)).
+
+A total of seven separate variables measuring job demands and social support were included in the study:
+                           
+                              1)
+                              Physical job demands
+
+Demands to accomplish high amounts of work
+
+Demands to work fast
+
+Demands to make quick decisions
+
+Memory demands
+
+Emotional demands
+
+Social support.
+
+According to the manual, the response options for all the demands questions were ‘always’ (coded 100), ‘often’ (coded 67), ‘sometimes’ (coded 33) and ‘never’ (coded 0); a higher score thus indicated a higher frequency of the demands. The response options for social support questions were ‘always’ (coded 0), ‘often’ (coded 33), ‘sometimes’ (coded 67), ‘never’ (coded 100) and ‘not relevant’ (the latter was excluded from analysis); a higher score thus indicated lack of social support. All variables were dichotomized by a cut-off at 50 points (i.e. the middle of the scale) into low versus high demands, and high versus low social support. This means that participants who were categorized as exposed to high demands on average responded ‘always’ or ‘often’ to the demands question. Participants who were categorized as exposed to low social support on average responded ‘sometimes’ or ‘never’ to questions on social support (those responding ‘always’ or ‘often’ were categorized as having high social support and thus considered ‘unexposed’ in the present study). This dichotomization of working conditions corresponds well with our definition of reduced demand-specific work ability as responding often/always having difficulties managing the specified work tasks.
+
+The measure of physical job demands (1) originated from the Danish Work Environment Cohort Study (Burr et al., 2003). The measure concerned how often you work in a stooping posture, twist your back several times per hour, lift or transfer heavy objects or persons, and push or pull heavy objects (4 items).
+
+The measures of psychosocial job demands and social support originated from the Copenhagen Psychosocial Questionnaire (Pejtersen et al., 2010). Demands to accomplish high amounts of work (2) concerned unevenly distributed work, insufficient time to complete work tasks, and getting behind with work (3 items). Demands to work fast (3) concerned working very fast and at a high pace throughout the day (2 items). Demands to make quick decisions (4) concerned requirements of quick decisions (1 item). Memory demands (5) concerned requirements of remembering a lot of things (1 item). Emotional demands (6) concerned emotionally demanding work (1 item). Social support (7) concerned the opportunity to get help and support from colleagues and colleagues being willing to listen to problems at work (2 items).
+
+We obtained information on age, gender, and length of vocational education (none, semi-skilled, skilled (e.g. carpenter), short (<3 years; e.g. market economist), middle-ranged (3–4 years; e.g. bachelor's degree), long (>4 years, e.g. physician)). These variables were included in the statistical analyses as they could potentially confound the association between MSP/MD and work ability.
+
+The items measuring demand-specific work ability were developed for The Danish Longitudinal Study on Work, Unemployment and Health, and they have not been reported previously. To estimate reductions in the demand-specific work ability of the participants, we asked ‘When you think about the last two months, how often have you had difficulty doing the following in your paid employment?’ followed by (we present a shortened version of the variable names in squared brackets):
+                           
+                              a.
+                              Managing the physical job demands (lifting, carrying, pushing, pulling, standing, bending etc.) [physical]
+                              
+
+Managing the amount of work [amount]
+                              
+
+Managing the pace of work [pace]
+                              
+
+Making quick decisions [decisions]
+                              
+
+Remembering the things that are important for your work tasks? [memory]
+                              
+
+Working with customers, patients, or students/pupils [client work]
+                              
+
+Working together with colleagues [co-operation]
+                              
+
+The six response options were ‘always’, ‘often’, ‘sometimes’, ‘seldom’, ‘never’, and ‘not relevant’. The ‘not relevant’ category was excluded as we intended that this response category should be used by the participant not exposed to the type of job demand that the demand-specific work disability question referred to. In total, 34.1% of the participants responded ‘not relevant’ to the question about difficulty managing the physical job demands and 16.3% responded ‘not relevant’ with respect to difficulty managing client work. The corresponding figures for the remaining work ability variables ranged from 1.7 to 4.3%. Reduced demand-specific work ability was defined as responding often/always having difficulty managing the specified work tasks.
+
+First, we analyzed the distribution of gender, vocational education, poor health, working conditions, and the seven measures of reduced demand-specific work ability (Table 1).
+
+Second, we estimated the mutually adjusted association of age, gender, and length of vocational education (categorical) with the seven measures of reduced demand-specific work ability in a binary logistic regression model; the estimates were also adjusted for daily MSP, MD, and specific job demands/social support (Table 2
+                        ).
+
+Third, we analyzed the association of each of the seven measures of demand-specific work ability with daily MSP and MD (mutually adjusted, Table 3
+                        ). In Model I, we included MSP, MD, and age. In Model II, we included MSP, MD, age, gender, and length of vocational education. In Model III, we included MSP, MD, age, gender, length of vocational education, and the specific job demand or social support variable.
+
+Fourth, we analyzed whether there was multiplicative or additive interaction between the specific job demand/low social support and MSP/MD regarding each of the seven measures of reduced demand-specific work ability. To test for multiplicative interaction, we added an interaction term (e.g. MSP*job demand or MD*job demand) to the analyses presented in Model III, Table 3 (data on interactions not shown in tables). To test for additive interaction, we constructed new variables combining the main exposures (MSP/MD and job demands/social support) to estimate the odds of reduced demand-specific work ability among employees, for example, (1) low physical demands + no MSP (reference); (2) low physical demands + MSP; (3) high physical demands + no MSP; (4) high physical demands + MSP. Based on the results from the analyses of the associations between these new variables and demand-specific work ability we calculated estimates of Relative Excess Risk of Interaction (RERI) and their 95% confidence intervals (Knol et al., 2011; Lundberg et al., 1996).
+
+Cases with missing values were excluded analysis by analysis (i.e. each participant was included in the analyses where he/she had no missing values and excluded only from the analyses where he/she had missing values). All included cases had full information on age, gender, and vocational education. For all exposure variables (i.e. poor health and working conditions) ≤1.0% had missing values (n = 25 to 30 cases), except for social support with 3.5% missing values (n = 117). For all outcome variables (i.e. reduced demand-specific work ability) ≤1.5% had missing values (n = 44 to 52 cases), except for difficulty working with costumers, patients, or students/pupils with 2.3% missing values (n = 79).
+
+For the two variables with the highest percentage of missing values (i.e. ‘social support’ and ‘difficulty working with costumers, patients, or students/pupils’) we analyzed if those with missing values differed from those with non-missing values. We found no statistically significant differences for ‘social support’ with respect to age, gender, and education. For ‘difficulties working with costumers, patients, or students/pupils’, we found more missing values (p = 0.032) among the 46-year old (n = 31, 2.1%) than among the 56-year old (n = 48, 3.5%). We also found more missing values (p < 0.001) among those with no education (n = 19, 10.4%) than among those with a middle-ranged education (n = 8, 0.9%).
+

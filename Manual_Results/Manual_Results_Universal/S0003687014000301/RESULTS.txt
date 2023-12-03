@@ -1,0 +1,29 @@
+
+
+The main findings of the study are shown in Tables 2 and 3
+                        
+                        . The results of the ANOVA (given in Table 4
+                        ) showed a significant main effect of hand condition on both the time to complete the pegboard test (p
+                        <0.05) and the number of errors (p
+                        <0.05). The post hoc tests indicated that while barehanded or when wearing glove design 1, participants completed the pegboard test faster than when wearing double gloves. In addition, the bare hand condition recorded faster pegboard test completion time than when wearing glove design 2. Wearing glove design 1, single-layered glove, glove design 2 and double glove required 4%, 7%, 10% and 11% higher pegboard completion times, respectively, than the bare hand condition. Furthermore, the number of errors was affected by the type of glove worn, so that more errors were made with double gloves or glove design 2 than while wearing glove design 1. The mean number of errors over a 30-min work period was 0.29 when wearing glove design 1, followed by 0.47, 0.5, 0.66 and 0.73 for single-layered glove, barehanded, glove design 2 and double glove, respectively (as seen in Table 2).
+
+It was also shown that the time to complete the pegboard test (p
+                        <0.001) and number of errors (p
+                        <0.01) varied significantly over the duration of the task (as shown in Tables 2 and 4), although the number of errors did not change in any systematic way. Time to complete the pegboard test decreased between the start and the end of the task. The time required for completing the pegboard test after 120 min was 8% faster than at time zero.
+
+The ANOVA showed a significant main effect of hand condition on the handgrip strength (p
+                        <0.001) but no significant effect on the forearm torque strength or lateral pinch strength.
+
+A higher level of handgrip strength was recorded while barehanded compared to when wearing single-layered cotton gloves, double gloves or glove design 2. The post hoc test showed no significant difference between the bare hand and glove design 1, although glove design 1 produced a significantly higher level of handgrip strength than double gloves. Compared to the bare hand condition, grip strength decrements when wearing glove design 1, single-layered glove, glove design 2 and double glove were 4.7%, 7%, 7.2% and 9.5%, respectively.
+
+Regarding the time effect, handgrip strength (p
+                        <0.05) and forearm torque strength (p
+                        <0.01) changed significantly over the duration of the task, while no significant effect of time was found on the lateral pinch strength. Based on the post hoc tests, handgrip strength at 60min was higher than that at time zero. Forearm torque strength also increased between the start and the end of the task, in that forearm torque strengths measured at 90 and 120min were significantly higher than that recorded at time zero. However, these time effects were small in practical terms. Mean handgrip strength only varied between 40 and 42N over the 2h work and forearm torque strength between 10.3 and 11.0Nm.
+
+As shown in Table 3, touch sensitivity in all the hand areas was greatest while barehanded (that, it had lowest filament force threshold in mN) compared to when wearing gloves. In all hand areas, sensitivity of touch thresholds while barehanded was found to be significantly different from those when wearing any of the gloves. Gloves reduced touch sensitivity in both small and ring fingers (ring mid/proximal phalanges, ring distal phalanx, small mid/proximal phalanges and small distal phalanx areas) more than in the other hand areas. Touch sensitivity thresholds in the thinner areas of glove design 1 were similar to those thresholds when wearing a single-layered cotton glove. No significant difference was found between glove design 2 and double gloves in any of the hand areas. In contrast, significant differences were found in the sensitivity thresholds between single-layered cotton gloves and glove design 2 in all hand areas.
+
+No significant effect of time was found on touch sensitivity. However, a significant interaction effect was found between hand condition and task time for the touch sensitivity of the thumb distal phalanx and hypothenar area. For the hypothenar area, wearing double gloves and glove design 2 caused more sensitivity decrement at the start of the task than at other times, whereas touch sensitivity did not change over time while barehanded or when wearing single-layered gloves or glove design 1.
+
+None of the subjective assessments (i.e. the rating of ease of manipulation and hand and finger discomfort rating) were found to differ significantly between the hand conditions. The participants rated ease of manipulation as between “very easy” and “easy” for all hand conditions, with lowest and highest mean ratings recorded for the bare hand (mean=1.4; SD=1.08) and double gloves (mean=1.9; SD=1.20), respectively. Also, relatively similar levels of discomfort, that was between “very low” and “low”, was recorded for all hand areas when performing the simulated tasks with both hand tools. Subjective assessment of the ease of manipulation did change over the duration of the task (p
+                        <0.001), so that better ratings of ease of manipulation were given at the start of the task compared to later. At the beginning of the task, participants rated the task as “very easy” with a mean rating score of 0.7 (SD=0.68), compared to as “easy” with a mean rating score of 2 (SD=1.05) after 120min.
+

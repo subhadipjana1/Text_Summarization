@@ -1,0 +1,51 @@
+->We investigated the prevalence of reduced demandspecific work ability its association with age gender education poor health and working conditions and the interaction between poor health and working conditions regarding reduced demandspecific work ability
+->Age was associated with two gender with four and education with all measures of reduced demandspecific work ability
+->MSP was associated with four and MD was associated with six measures of reduced demandspecific work ability
+->Demandspecific work ability poor health and working conditions in middleaged fulltime employees
+->However both MSP and MD were related to difficulty managing physical job demands difficulty managing the amount and pace of work and difficulty remembering important things
+->high job demands or low social support did not appear to increase the association between poor health and reduced demandspecific work ability
+->Choice of statistical methods data processing and statistics Kirsten NabeNielsen Karsten Thielen
+->Thus the associations between poor health and reduced demandspecific work ability were less specific than we hypothesizedThis study did not confirm an interaction between working conditions and poor health with regard to demandspecific work ability ie
+->Idea formulation of study Kirsten NabeNielsen Karsten Thielen Else Nygaard Finn Diderichsen                              Design and collection of data Karsten Thielen Else Nygaard Finn Diderichsen
+->We used crosssectional questionnaire data from a subsample of the 2006survey of The Danish Longitudinal Study on Work Unemployment and Health In 2000 a random sample of individuals aged 40 or 50 years by 1st of October 1999  was drawn from The Danish Institute of Governmental Research Longitudinal Register
+->This register contains data on 10 of the Danish population aged 15 years or older
+->Data for the survey were collected by postal questionnaires including two reminders for nonrespondentsIn 2006 4893 of the now 46 and 56year old baseline respondents  returned a followup questionnaire which included questions on demandspecific work ability
+->The subsample used in the present paper comprised the 3381 participants who indicated the length of their vocational education and who were fulltime employed  at the time of the data collection
+->The distribution of gender vocational education health working condition and reduced demandspecific work ability for each age group is presented in Table1
+->All variables were dichotomized by a cutoff at 50 points ie
+->These variables were included in the statistical analyses as they could potentially confound the association between MSPMD and work abilityThe items measuring demandspecific work ability were developed for The Danish Longitudinal Study on Work Unemployment and Health and they have not been reported previously
+->All included cases had full information on age gender and vocational education
+->poor health and working conditions 10 had missing values  except for social support with 35 missing values
+->We found no statistically significant differences for social support with respect to age gender and education
+->The participants were asked three questions about MSP i Do you have pain in the upper part of your back or neck
+->The measure concerned how often you work in a stooping posture twist your back several times per hour lift or transfer heavy objects or persons and push or pull heavy objects The measures of psychosocial job demands and social support originated from the Copenhagen Psychosocial Questionnaire
+->answering yes daily to at least one of the questions on MSP and we defined MSP noncases as participants without daily MSPTo measure MD we used the Major Depression Inventory  which contains a symptom list that covers the ICD10 and DSMIV symptoms of depression
+->The response options for social support questions were always  often  sometimes  never  and not relevant  a higher score thus indicated lack of social support
+->Participants who were categorized as exposed to low social support on average responded sometimes or never to questions on social support
+->We defined MSP cases as respondents that were severely affected by MSP ie
+->In Model II we included MSP MD age gender and length of vocational education
+->The MDI includes 12 questions for example Have you felt low in spirits or sad
+->Have you felt that life wasnt worth living and Have you had trouble sleeping at night
+->The six response options ranged from all the time  most of the time  a slightly more than half of the time  slightly less than half of the time  some of the time  at no time
+->Physical job demandsDemands to accomplish high amounts of workDemands to work fastDemands to make quick decisionsMemory demandsEmotional demandsSocial supportAccording to the manual the response options for all the demands questions were always  often  sometimes  and never  a higher score thus indicated a higher frequency of the demands
+->This means that participants who were categorized as exposed to high demands on average responded always or often to the demands question
+->Demands to make quick decisions  concerned requirements of quick decisions
+->The six response options were always often sometimes seldom never and not relevant
+->The not relevant category was excluded as we intended that this response category should be used by the participant not exposed to the type of job demand that the demandspecific work disability question referred to
+->To test for multiplicative interaction we added an interaction term eg
+->MSPjob demand or MDjob demand to the analyses presented in Model III Table3
+->This dichotomization of working conditions corresponds well with our definition of reduced demandspecific work ability as responding oftenalways having difficulties managing the specified work tasksThe measure of physical job demands  originated from the Danish Work Environment Cohort Study
+->Social support  concerned the opportunity to get help and support from colleagues and colleagues being willing to listen to problems at work We obtained information on age gender and length of vocational education none semiskilled skilled eg
+->Reduced demandspecific work ability was defined as responding oftenalways having difficulty managing the specified work tasksFirst we analyzed the distribution of gender vocational education poor health working conditions and the seven measures of reduced demandspecific work ability Second we estimated the mutually adjusted association of age gender and length of vocational education  with the seven measures of reduced demandspecific work ability in a binary logistic regression model the estimates were also adjusted for daily MSP MD and specific job demandssocial support Table2
+->The prevalence of reduced demandspecific work ability ranged from 9 to 21
+->Depression was associated with six measures of reduced demandspecific work ability
+->Musculoskel pain was associated with four measures of reduced demandspecific work ability
+->The distribution of gender vocational education health working condition and reduced demandspecific work ability for each age group is presented in Table1In the group of 46year old employees 810 of the participants often or always had difficulty making quick decisions working with customers patients or studentspupils or working together with colleagues
+->In this agegroup 124 experienced difficulty remembering important things 145 experienced difficulty managing the physical demands of work and 155 experienced difficulty managing the pace of work
+->Almost one fifth of the 46year old employees  reported difficulty managing the amount of workIn the group of 56year old employees 1012 of the participants often or always had difficulty making quick decisions working with customers patients or studentspupils or working together with colleagues
+->In this agegroup 141 experienced difficulty remembering important things 163 experienced difficulty managing the pace of work and 180 experienced difficulty managing the physical demands of work
+->More than one fifth of the 56year old employees  reported difficulty managing the amount of workThe odds of difficulty making quick decisions and difficulty working together with colleagues were significantly increased among the 56year old as compared with 46years old
+->Women had significantly lower odds of experiencing difficulty making quick decisions remembering important things working with costumers patients or studentspupils and working together with colleagues
+->Having no vocational education was associated with all measures of reduced demandspecific work ability and for all outcome measures the association was strongest in this exposure group
+->The most pronounced associations between length of vocational education and reduced demandspecific work ability were observed for difficulty managing physical job demands and making quick decisions and for difficulties working with costumers patients or studentspupils and working with colleaguesIn the fully adjusted model  we found that MSP was significantly associated with difficulty managing the physical job demands and the amount and pace of work and with difficulty remembering important things with odds ratios ranging from 13 to 14
+->p for multiplicative interaction 005 data not shown in tables

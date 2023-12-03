@@ -1,0 +1,22 @@
+->The inanimate bicycle symbol has long been used to indicate the animate activity of bicycling facility signs
+->In contrast either the inanimate bicycle symbol or the animate bicycle symbol has been used interchangeably for the standard pavement symbols in bike lanes
+->The purpose of this study was to examine two different designs  involved in the evaluation of perceived preference and glance legibility and investigate sign design features on bicycle pictorial symbols
+->The effects of sign design features on bicycle pictorial symbols for bicycling facility signs
+->Traffic signs play a vital role in creating a safer environment for drivers bikers and pedestrians
+->Although inanimate bicycle signs have been the standard for over 30 years this study confirms that animate bicycle symbols should be considered in the redesign of bicycling facility signs
+->Participants participated in both the preference test and the glance legibility test
+->After projection of each display participants were asked to identify the same symbols using reference card
+->The order of the 10 symbols was randomized progressively by size beginning with the smallest series of 10 symbols and transitioning to the next series of larger symbol size
+->Prior to beginning the study participants visual acuity was examined using the Snellen Eye Chart
+->The distance between the LCD monitor and the participants position was 20ft  which was designed to replicate 2020 visual acuity with midsized symbols in the 5 sizes
+->Each symbol was displayed for one second on the LCD monitor and between displays an abstract roadway image was displayed in order to remove any iconic memory within the eye
+->We examined two different designs  on bicycle pictorial symbols
+->The alternative designs  performed better in both the preference test and the glance legibility test
+->A Friedman test  was used to determine whether there were significant differences between rankings of symbols in each question
+->Results indicated that there were significant differences among the rankings of the six signs in three applications p00001
+->The qualitative results in Table2                         represent participants responses and redundant responses were emitted
+->To determine which of ten symbols were significantly different posthoc paired comparisons were conducted using a least squares difference test
+->In terms of the series responses were significantly different from each other which describes decreased legibility along with decreased symbol size
+->Additional posthoc paired comparisons using Z tests showed that there were significant differences between the current bicycle sign and the alternative sign only in the bicycling warning application Fig
+->Apart from that single application no significant differences between the current bicycle sign and alternative designs in bicycling and nobicycling applications were observedParticipants opinions on most preferred signs from the openended question were qualitatively analyzed using thematic analysis to identify the common reasons of participants preference
+->For example in the bicycling application 13 participants preferred the current bicycle sign whereas 19 participants preferred one of alternative bicycle designs  and 3 participants preferred the other alternative bicycle designs among total 35 participantsWith respect to sign applications for pedestrian and bicycler crossings hills and bicycle surface conditions participants also preferred the alternative design
